@@ -5,12 +5,12 @@
         "course_type": {
             "regular": {
                 "chapters": [
-                   /* {
+                    {
                         "chapter_id": "ict-1",
                         "chapter_name": "Eshob hudai na,kaj ase",
                         "total_class": 1,
                         "price": 550
-                    },*/
+                    },
                     {
                         "chapter_id": "ict-2",
                         "chapter_name": "ডেটা কমিউনিকেশন ও নেটওয়ার্কিং(data communication and networking)",
