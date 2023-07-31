@@ -3,7 +3,7 @@
         "id": 1,
         "subject": "Math",
         "course_type": {
-            "Regular_1v1": {
+            "regular": {
                 "chapters": [
                     {
                         "chapter_name": " বাস্তব সংখ্যা  (Real Numbers)",
@@ -92,7 +92,7 @@
                     }
                 ]
             },
-            "Regular_1vs3(Single)": {
+            "regular_1v3_single": {
                 "chapters": [
                     {
                         "chapter_name": " বাস্তব সংখ্যা  (Real Numbers)",
@@ -183,7 +183,7 @@
             },
 
 
-            "Regular_1v3 (Group)": {
+            "Regular_1v3_group": {
                 "chapters": [
                     {
                         "chapter_name": " বাস্তব সংখ্যা  (Real Numbers)",
@@ -278,87 +278,87 @@
                     {
                         "chapter_name": " বাস্তব সংখ্যা  (Real Numbers)",
                         "total_class": 4,
-                        "price per class": 550
+                        "price": 550
                     }
                     {
                         "chapter_name": " সেট ও ফাংশন (Set and Function)",
                         "total_class": 6,
-                        "price per class": 550
+                        "price": 550
                     }
                     {
                         "chapter_name": " বীজগাণিতিক রাশি (Aklgebraic Expressions)",
                         "total_class": 10,
-                        "price per class": 550
+                        "price": 550
                     }
                     {
                         "chapter_name": " সূচক ও লগারিদম (Exponents and Logarithms)",
                         "total_class": 6,
-                        "price per class": 550
+                        "price": 550
                     }
                     {
                         "chapter_name": " এক চলকবিশিষ্ট সমীকরণ (Equations in One Variable)",
                         "total_class": 5,
-                        "price per class": 550
+                        "price": 550
                     }
                     {
                         "chapter_name": " রেখা, কোণ ও ত্রিভুজ (Lines, Angles and Triangles)",
                         "total_class": 6,
-                        "price per class": 550
+                        "price": 550
                     }
                     {
                         "chapter_name": "ব্যবহারিক জ্যামিতি  (Practical Geometry)",
                         "total_class": 5,
-                        "price per class": 550
+                        "price ": 550
                     }
                     {
                         "chapter_name": " বৃত্ত (Circle)",
                         "total_class": 8,
-                        "price per class": 550
+                        "price": 550
                     }
                     {
                         "chapter_name": "ত্রিকোণমিতিক অনুপাত (Balance of Acid-Base)",
                         "total_class": 6,
-                        "price per class": 550
+                        "price": 550
                     }
                     {
                         "chapter_name": " দূরত্ব ও উচ্চতা (Distance and Elevation)",
                         "total_class": 3,
-                        "price per class": 550
+                        "price": 550
                     }
                     {
                         "chapter_name": " বীজগাণিতিক অনুপাত ও সমানুপাত (Algebric Ratio and Propagation)",
                         "total_class": 5,
-                        "price per class": 550
+                        "price": 550
                     }
                     {
                         "chapter_name": " দুই চলকবিশিষ্ট সরল সহসমীকরণ (Simple Simultaneous Equations in Two Variables)",
                         "total_class": 7,
-                        "price per class": 550
+                        "price": 550
                     }
                     {
                         "chapter_name": " সসীম ধারা (Finite Series)",
                         "total_class": 5,
-                        "price per class": 550
+                        "price": 550
                     }
                     {
                         "chapter_name": " অনুপাত, সদৃশতা ও প্রতিসমতা (Ration, Similarity and Symmetry)",
                         "total_class": 6,
-                        "price per class": 550
+                        "price": 550
                     }
                     {
                         "chapter_name": " ক্ষেত্রফল সম্পর্কিত উপপাদ্য ও সম্পাদ্য (Area Related Theorems and Constructions)",
                         "total_class": 3,
-                        "price per class": 550
+                        "price": 550
                     }
                     {
                         "chapter_name": " পরিমিতি (Measuration)",
                         "total_class": 8,
-                        "price per class": 550
+                        "price": 550
                     }
                     {
                         "chapter_name": " অনুপাত, সদৃশতা ও প্রতিসমতা (Ration, Similarity and Symmetry)",
                         "total_class": 6,
-                        "price per class": 550
+                        "price": 550
                     }
                 ]
             }
@@ -368,7 +368,7 @@
         "id": 2,
         "subject": "Physics",
         "course_type": {
-            "regular_1vs1": {
+            "regular": {
                 "chapters": [
                     {
                         "chapter_name": " ভৌত রাশি ও পরিমাপ (Physical quantities and their measurements)",
@@ -443,7 +443,7 @@
                 ]
             },
 
-            "Regular_1vs3(Single)": {
+            "Regular_1v3_single": {
                 "chapters": [
                     {
                         "chapter_name": " ভৌত রাশি ও পরিমাপ (Physical quantities and their measurements)",
@@ -517,7 +517,7 @@
                     }
                 ]
             },
-            "Regular_1v3 (Group)": {
+            "Regular_1v3_group": {
                 "chapters": [
                     {
                         "chapter_name": " ভৌত রাশি ও পরিমাপ (Physical quantities and their measurements)",
@@ -672,7 +672,7 @@
         "id": 3,
         "subject": "Chemistry",
         "course_type": {
-            "regular_1vs1": {
+            "regular": {
                 "chapters": [
                     {
                         "chapter_name": " রসায়নের ধারণা (The Concepts of Chemistry)",
@@ -737,7 +737,7 @@
                 ]
             },
 
-            "Regular_1vs3(Single)": {
+            "Regular_1v3_single": {
                 "chapters": [{
                     "chapter_name": " রসায়নের ধারণা (The Concepts of Chemistry)",
                     "total_class": 1,
@@ -800,7 +800,7 @@
                 }
                 ]
             },
-            "Regular_1v3 (Group)": {
+            "Regular_1v3_group": {
                 "chapters": [
                     {
                         "chapter_name": " রসায়নের ধারণা (The Concepts of Chemistry)",
@@ -935,7 +935,7 @@
         id: 4,
         subject: "higher_math",
         course_type: {  
-            "regular_1vs1": {
+            "regular": {
                 "chapters": [
                     {
                         "chapter_name": "সেট ও ফাংশন (Set and Function)",
@@ -1004,7 +1004,7 @@
                     },
                 ],
             },
-           "Regular_1vs3(Single)": {
+           "Regular_1v3_single": {
                 "chapters": [
                     {
                         "chapter_name": "সেট ও ফাংশন (Set and Function)",
@@ -1076,7 +1076,7 @@
                     }
                 ]
             },
-            "Regular_1v3 (Group)": {
+            "Regular_1v3_group": {
                 "chapters": [
                     {
                         "chapter_name": "সেট ও ফাংশন (Set and Function)",
@@ -1226,7 +1226,7 @@
         id: 5,
         subject: "biology",
         course_type: {
-            "regular_1vs1": {
+            "regular": {
                 "chapters": [
                     {
                         "chapter_name": "জীবন পাঠ (Life Lesson)",
@@ -1295,7 +1295,7 @@
                     }
                 ]
             },
-            "Regular_1vs3(Single)": {
+            "Regular_1v3_single": {
                 "chapters": [
                     {
                         "chapter_name": "জীবন পাঠ (Life Lesson)",
@@ -1369,7 +1369,7 @@
                     }
                 ]
             },
-            "Regular_1v3 (Group)": {
+            "Regular_1v3_group": {
                 "chapters": [
                     {
                         "chapter_name": "জীবন পাঠ (Life Lesson)",
