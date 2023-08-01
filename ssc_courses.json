@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "subject": "ict",
+        "subject": "higher_math",
         "course_type": {
             "regular": {
                 "chapters": [
