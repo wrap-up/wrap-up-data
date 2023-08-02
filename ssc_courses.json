@@ -6,160 +6,332 @@
             "regular": {
                 "chapters": [
                     {
-                        "chapter_id": "ict-1",
-                        "chapter_name": "Eshob hudai na,kaj ase SSC",
-                        "total_class": 1,
-                        "price": 550
-                    },
-                    {
-                        "chapter_id": "ict-2",
-                        "chapter_name": "ডেটা কমিউনিকেশন ও নেটওয়ার্কিং(data communication and networking)",
-                        "total_class": 2,
-                        "price": 1100
-                    },
-                    {
-                        "chapter_id": "ict-3",
-                        "chapter_name": "সংখ্যা পদ্ধতি ও ডিজিটাল ডিভাইস(number system and digital device)",
+                        "chapter_id":"high-math-1",
+                        "chapter_name": "সেট ও ফাংশন (Set and Function)",
                         "total_class": 6,
                         "price": 3300
                     },
                     {
-                        "chapter_id": "ict-4",
-                        "chapter_name": "ওয়েব ডিজাইন পরিচিতি ও এইচটিএমএল(web design introduction and html)",
+                        "chapter_id":"high-math-2",
+                        "chapter_name": " বীজগাণিতিক রাশি (Aklgebraic Expressions)",
+                        "total_class": 10,
+                        "price": 5500
+                    },
+                    {
+                        "chapter_id":"high-math-3",
+                        "chapter_id":"high-math-3",
+                        "chapter_name": "জ্যামিতি (Geometry)",
+                        "total_class": 10,
+                        "price": 5500
+                    },
+                    {
+                        "chapter_id":"high-math-4",
+                        "chapter_name": " জ্যামিতিক অঙ্কন (Geometric Construction)",
                         "total_class": 5,
                         "price": 2750
                     },
                     {
-                        "chapter_id": "ict-5",
-                        "chapter_name": "প্রোগ্রামিং ভাষা(Programming)",
-                        "total_class": 7,
-                        "price": 3850
+                        "chapter_id":"high-math-5",
+                        "chapter_name": " সমীকরণ (Equation)",
+                        "total_class": 5,
+                        "price": 2750
                     },
                     {
-                        "chapter_id": "ict-6",
-                        "chapter_name": "ডেটাবেজ ম্যানেজমেন্ট সিস্টেম(database management system)",
-                        "total_class": 3,
-                        "price": 1600
+                        "chapter_id":"high-math-6",
+                        "chapter_name": " অসীম ধারা (Infinite Series)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"high-math-7",
+                        "chapter_name": " ত্রিকোণমিতি (Trigonometry)",
+                        "total_class": 10,
+                        "price": 5500
+                    },
+                    {
+                        "chapter_id":"high-math-8",
+                        "chapter_name": " সূচক ও লগারিদম (Exponents and Logarithms)",
+                        "total_class": 6,
+                        "price": 3300
+                    },
+                    {
+                        "chapter_id":"high-math-9",
+                        "chapter_name": "দ্বিপদী বিস্তৃতি (Binomial Expansion)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"high-math-10",
+                        "chapter_name": " স্হানগতিক জ্যামিতি (Coordinate Geometry)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"high-math-11",
+                        "chapter_name": " সমতলীয় ভেক্টর (Plane Vector)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {   
+                        "chapter_id":"high-math-12",
+                        "chapter_name": " ঘন জ্যামিতি (Solid Geometry)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"high-math-13",
+                        "chapter_name": " সম্ভাব্যতা (Probability)",
+                        "total_class": 5,
+                        "price": 2750
                     }
                 ]
             },
             "regular_1v3_single": {
                 "chapters": [
                     {
-                        "chapter_id": "ict-1",
-                        "chapter_name": "তথ্য ও যোগাযোগ প্রযুক্তিঃ বিশ্ব ও বাংলাদেশ(information and communication technology: world and bangladesh)",
-                        "total_class": 1,
-                        "price": 250
-                    },
-                    {
-                        "chapter_id": "ict-2",
-                        "chapter_name": "ডেটা কমিউনিকেশন ও নেটওয়ার্কিং(data communication and networking)",
-                        "total_class": 2,
-                        "price": 500
-                    },
-                    {
-                        "chapter_id": "ict-3",
-                        "chapter_name": "সংখ্যা পদ্ধতি ও ডিজিটাল ডিভাইস(number system and digital device)",
+                        "chapter_id":"high-math-1",
+                        "chapter_name": "সেট ও ফাংশন (Set and Function)",
                         "total_class": 6,
-                        "price": 1500
+                        "price": 3300
                     },
                     {
-                        "chapter_id": "ict-4",
-                        "chapter_name": "ওয়েব ডিজাইন পরিচিতি ও এইচটিএমএল(web design introduction and html)",
+                        "chapter_id":"high-math-2",
+                        "chapter_name": " বীজগাণিতিক রাশি (Aklgebraic Expressions)",
+                        "total_class": 10,
+                        "price": 5500
+                    },
+                    {
+                        "chapter_id":"high-math-3",
+                        "chapter_id":"high-math-3",
+                        "chapter_name": "জ্যামিতি (Geometry)",
+                        "total_class": 10,
+                        "price": 5500
+                    },
+                    {
+                        "chapter_id":"high-math-4",
+                        "chapter_name": " জ্যামিতিক অঙ্কন (Geometric Construction)",
                         "total_class": 5,
-                        "price": 1250
+                        "price": 2750
                     },
                     {
-                        "chapter_id": "ict-5",
-                        "chapter_name": "প্রোগ্রামিং ভাষা(Programming)",
-                        "total_class": 7,
-                        "price": 1750
+                        "chapter_id":"high-math-5",
+                        "chapter_name": " সমীকরণ (Equation)",
+                        "total_class": 5,
+                        "price": 2750
                     },
                     {
-                        "chapter_id": "ict-6",
-                        "chapter_name": "ডেটাবেজ ম্যানেজমেন্ট সিস্টেম(database management system)",
-                        "total_class": 3,
-                        "price": 750
+                        "chapter_id":"high-math-6",
+                        "chapter_name": " অসীম ধারা (Infinite Series)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"high-math-7",
+                        "chapter_name": " ত্রিকোণমিতি (Trigonometry)",
+                        "total_class": 10,
+                        "price": 5500
+                    },
+                    {
+                        "chapter_id":"high-math-8",
+                        "chapter_name": " সূচক ও লগারিদম (Exponents and Logarithms)",
+                        "total_class": 6,
+                        "price": 3300
+                    },
+                    {
+                        "chapter_id":"high-math-9",
+                        "chapter_name": "দ্বিপদী বিস্তৃতি (Binomial Expansion)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"high-math-10",
+                        "chapter_name": " স্হানগতিক জ্যামিতি (Coordinate Geometry)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"high-math-11",
+                        "chapter_name": " সমতলীয় ভেক্টর (Plane Vector)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {   
+                        "chapter_id":"high-math-12",
+                        "chapter_name": " ঘন জ্যামিতি (Solid Geometry)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"high-math-13",
+                        "chapter_name": " সম্ভাব্যতা (Probability)",
+                        "total_class": 5,
+                        "price": 2750
                     }
                 ]
             },
             "regular_1v3_group": {
                 "chapters": [
                     {
-                        "chapter_id": "ict-1",
-                        "chapter_name": "তথ্য ও যোগাযোগ প্রযুক্তিঃ বিশ্ব ও বাংলাদেশ(information and communication technology: world and bangladesh)",
-                        "total_class": 1,
-                        "price": 250
-                    },
-                    {
-                        "chapter_id": "ict-2",
-                        "chapter_name": "ডেটা কমিউনিকেশন ও নেটওয়ার্কিং(data communication and networking)",
-                        "total_class": 2,
-                        "price": 500
-                    },
-                    {
-                        "chapter_id": "ict-3",
-                        "chapter_name": "সংখ্যা পদ্ধতি ও ডিজিটাল ডিভাইস(number system and digital device)",
+                        "chapter_id":"high-math-1",
+                        "chapter_name": "সেট ও ফাংশন (Set and Function)",
                         "total_class": 6,
-                        "price": 1500
+                        "price": 3300
                     },
                     {
-                        "chapter_id": "ict-4",
-                        "chapter_name": "ওয়েব ডিজাইন পরিচিতি ও এইচটিএমএল(web design introduction and html)",
+                        "chapter_id":"high-math-2",
+                        "chapter_name": " বীজগাণিতিক রাশি (Aklgebraic Expressions)",
+                        "total_class": 10,
+                        "price": 5500
+                    },
+                    {
+                        "chapter_id":"high-math-3",
+                        "chapter_id":"high-math-3",
+                        "chapter_name": "জ্যামিতি (Geometry)",
+                        "total_class": 10,
+                        "price": 5500
+                    },
+                    {
+                        "chapter_id":"high-math-4",
+                        "chapter_name": " জ্যামিতিক অঙ্কন (Geometric Construction)",
                         "total_class": 5,
-                        "price": 1250
+                        "price": 2750
                     },
                     {
-                        "chapter_id": "ict-5",
-                        "chapter_name": "প্রোগ্রামিং ভাষা(Programming)",
-                        "total_class": 7,
-                        "price": 1750
+                        "chapter_id":"high-math-5",
+                        "chapter_name": " সমীকরণ (Equation)",
+                        "total_class": 5,
+                        "price": 2750
                     },
                     {
-                        "chapter_id": "ict-6",
-                        "chapter_name": "ডেটাবেজ ম্যানেজমেন্ট সিস্টেম(database management system)",
-                        "total_class": 3,
-                        "price": 750
+                        "chapter_id":"high-math-6",
+                        "chapter_name": " অসীম ধারা (Infinite Series)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"high-math-7",
+                        "chapter_name": " ত্রিকোণমিতি (Trigonometry)",
+                        "total_class": 10,
+                        "price": 5500
+                    },
+                    {
+                        "chapter_id":"high-math-8",
+                        "chapter_name": " সূচক ও লগারিদম (Exponents and Logarithms)",
+                        "total_class": 6,
+                        "price": 3300
+                    },
+                    {
+                        "chapter_id":"high-math-9",
+                        "chapter_name": "দ্বিপদী বিস্তৃতি (Binomial Expansion)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"high-math-10",
+                        "chapter_name": " স্হানগতিক জ্যামিতি (Coordinate Geometry)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"high-math-11",
+                        "chapter_name": " সমতলীয় ভেক্টর (Plane Vector)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {   
+                        "chapter_id":"high-math-12",
+                        "chapter_name": " ঘন জ্যামিতি (Solid Geometry)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"high-math-13",
+                        "chapter_name": " সম্ভাব্যতা (Probability)",
+                        "total_class": 5,
+                        "price": 2750
                     }
                 ]
             },
             "test_paper_solve": {
                 "chapters": [
                     {
-                        "chapter_id": "ict-1",
-                        "chapter_name": "তথ্য ও যোগাযোগ প্রযুক্তিঃ বিশ্ব ও বাংলাদেশ(information and communication technology: world and bangladesh)",
-                        "total_class": 1,
-                        "price": 750
+                        "chapter_id":"high-math-1",
+                        "chapter_name": "সেট ও ফাংশন (Set and Function)",
+                        "total_class": 6,
+                        "price": 3300
                     },
                     {
-                        "chapter_id": "ict-2",
-                        "chapter_name": "ডেটা কমিউনিকেশন ও নেটওয়ার্কিং(data communication and networking)",
-                        "total_class": 1,
-                        "price": 750
+                        "chapter_id":"high-math-2",
+                        "chapter_name": " বীজগাণিতিক রাশি (Aklgebraic Expressions)",
+                        "total_class": 10,
+                        "price": 5500
                     },
                     {
-                        "chapter_id": "ict-3",
-                        "chapter_name": "সংখ্যা পদ্ধতি ও ডিজিটাল ডিভাইস(number system and digital device)",
-                        "total_class": 1,
-                        "price": 750
+                        "chapter_id":"high-math-3",
+                        "chapter_id":"high-math-3",
+                        "chapter_name": "জ্যামিতি (Geometry)",
+                        "total_class": 10,
+                        "price": 5500
                     },
                     {
-                        "chapter_id": "ict-4",
-                        "chapter_name": "ওয়েব ডিজাইন পরিচিতি ও এইচটিএমএল(web design introduction and html)",
-                        "total_class": 1,
-                        "price": 750
+                        "chapter_id":"high-math-4",
+                        "chapter_name": " জ্যামিতিক অঙ্কন (Geometric Construction)",
+                        "total_class": 5,
+                        "price": 2750
                     },
                     {
-                        "chapter_id": "ict-5",
-                        "chapter_name": "প্রোগ্রামিং ভাষা(Programming)",
-                        "total_class": 1,
-                        "price": 750
+                        "chapter_id":"high-math-5",
+                        "chapter_name": " সমীকরণ (Equation)",
+                        "total_class": 5,
+                        "price": 2750
                     },
                     {
-                        "chapter_id": "ict-6",
-                        "chapter_name": "ডেটাবেজ ম্যানেজমেন্ট সিস্টেম(database management system)",
-                        "total_class": 1,
-                        "price": 750
+                        "chapter_id":"high-math-6",
+                        "chapter_name": " অসীম ধারা (Infinite Series)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"high-math-7",
+                        "chapter_name": " ত্রিকোণমিতি (Trigonometry)",
+                        "total_class": 10,
+                        "price": 5500
+                    },
+                    {
+                        "chapter_id":"high-math-8",
+                        "chapter_name": " সূচক ও লগারিদম (Exponents and Logarithms)",
+                        "total_class": 6,
+                        "price": 3300
+                    },
+                    {
+                        "chapter_id":"high-math-9",
+                        "chapter_name": "দ্বিপদী বিস্তৃতি (Binomial Expansion)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"high-math-10",
+                        "chapter_name": " স্হানগতিক জ্যামিতি (Coordinate Geometry)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"high-math-11",
+                        "chapter_name": " সমতলীয় ভেক্টর (Plane Vector)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {   
+                        "chapter_id":"high-math-12",
+                        "chapter_name": " ঘন জ্যামিতি (Solid Geometry)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"high-math-13",
+                        "chapter_name": " সম্ভাব্যতা (Probability)",
+                        "total_class": 5,
+                        "price": 2750
                     }
                 ]
             }
