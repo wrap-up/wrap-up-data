@@ -1689,5 +1689,603 @@
                 ]
             }
         }
+    },
+    {
+        "id": 5,
+        "subject": "biology",
+        "course_type": {
+            "regular": {
+                "chapters": [
+                 {
+                    "chapter_id":"bio-1",
+                    "chapter_name": " কোষ ও এর গঠন  (Cell and its structure)",
+                    "total_class": 4,
+                    "price": 2400
+                },
+                {
+                    "chapter_id":"bio-2",
+                    "chapter_name": " কোষ বিভাজন (Cell division)",
+                    "total_class": 3,
+                    "price": 1800
+                },
+                {
+                    "chapter_id":"bio-3",
+                    "chapter_name": " কোষ রসায়ন (Cell chemistry)",
+                    "total_class": 5,
+                    "price": 3000
+                },
+                {
+                    "chapter_id":"bio-4",
+                    "chapter_name": " অনুজীব (Micro-organism)",
+                    "total_class": 5,
+                    "price": 3000
+                },
+                {
+                    "chapter_id":"bio-5",
+                    "chapter_name": " শৈবাল ও ছত্রাক (Algae and fungi)",
+                    "total_class": 3,
+                    "price": 1800
+                },
+                {
+                    "chapter_id":"bio-6",
+                    "chapter_name": "ব্রায়োফাইটা ও টেরিডোফাইটা (Bryophyta and pteridophyta)",
+                    "total_class": 2,
+                    "price": 1200
+                },
+                {
+                    "chapter_id":"bio-7",
+                    "chapter_name": " নগ্নবীজী ও আবৃতবীজী উদ্ভিদ (Gymnosperms and angiosperms)",
+                    "total_class": 4,
+                    "price": 2400
+                },
+                {
+                    "chapter_id":"bio-8",
+                    "chapter_name": " টিস্যু ও টিস্যুতন্ত্র (Tissue and tissue system)",
+                    "total_class": 3,
+                    "price": 1800
+                },
+                {
+                    "chapter_id":"bio-9",
+                    "chapter_name": " উদ্ভিদ শারীরতত্ত্ব (Plant physiology)",
+                    "total_class": 10,
+                    "price": 6000
+                },
+                {
+                    "chapter_id":"bio-10",
+                    "chapter_name": " উদ্ভিদ প্রজনন (Plant reproduction)",
+                    "total_class": 3,
+                    "price": 1800
+                },
+                {
+                    "chapter_id":"bio-11",
+                    "chapter_name": " জীব প্রযুক্তি (Biotechnology)",
+                    "total_class": 3,
+                    "price": 1800
+                },
+                {
+                    "chapter_id":"bio-12",
+                    "chapter_name": " জীবের পরিবেশ, বিস্তার ও সংরক্ষণ (Environment, distribution and conservation of living organisms)",
+                    "total_class": 4,
+                    "price": 2400
+                },
+                {
+                    "chapter_id":"bio-13",
+                    "chapter_name": " প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস  (Animal diversity and classification)",
+                    "total_class": 4,
+                    "price": 2400
+                },
+                {
+                    "chapter_id":"bio-14",
+                    "chapter_name": " প্রাণীর পরিচিতি (Animal's identity)",
+                    "total_class": 6,
+                    "price": 3600
+                },
+                {
+                    "chapter_id":"bio-15",
+                    "chapter_name": " মানব শারীরতত্ত্বঃ পরিপাক ও শোষণ (Human physiology:Digestion & Absorption)",
+                    "total_class": 4,
+                    "price": 2400
+                },
+                {
+                    "chapter_id":"bio-16",
+                    "chapter_name": " মানব শারীরতত্ত্বঃ রক্ত ও সঞ্চালন (Human physiology:Blood & Circulation)",
+                    "total_class": 4,
+                    "price": 2400
+                },
+                {
+                    "chapter_id":"bio-17",
+                    "chapter_name": " মানব শারীরতত্ত্বঃ শ্বাসক্রিয়া ও শ্বসন (Human physiology:Respiration & Breathing)",
+                    "total_class": 3,
+                    "price": 1800
+                },
+                {
+                    "chapter_id":"bio-18",
+                    "chapter_name": "মানব শারীরতত্ত্বঃ বর্জয ও নিষ্কাশন (Human physiology:Wastes & Elimination)",
+                    "total_class": 2,
+                    "price": 1200
+                },
+                {
+                    "chapter_id":"bio-19",
+                    "chapter_name": " মানব শারীরতত্ত্বঃ চলন ও অঙ্গচালনা (Human physiology:Locomotion & Movement)",
+                    "total_class": 6,
+                    "price": 3600
+                },
+                {
+                    "chapter_id":"bio-20",
+                    "chapter_name": " মানব শারীরতত্ত্বঃ সমন্বয় ও নিয়ন্ত্রণ (Human physiology:Coordination & Control)",
+                    "total_class": 6,
+                    "price": 3600
+                },
+                {
+                    "chapter_id":"bio-21",
+                    "chapter_name": " মানব জীবনের ধারাবাহিকতা  (Continuation of human life)",
+                    "total_class": 5,
+                    "price": 3000
+                },
+                {
+                    "chapter_id":"bio-22",
+                    "chapter_name": " মানবদেহের প্রতিরক্ষা (ইমিউনিটি) (Protection of human body(Immunity))",
+                    "total_class": 5,
+                    "price": 3000
+                },
+                {
+                    "chapter_id":"bio-23",
+                    "chapter_name": " জিনতত্ত্ব ও বিবর্তন (Genetics and Evolution)",
+                    "total_class": 5,
+                    "price": 3000
+                },
+                {
+                    "chapter_id":"bio-24",
+                    "chapter_name": " প্রাণীর আচরণ (Animal behaviour)",
+                    "total_class": 3,
+                    "price": 1800
+                }
+                ]
+            },
+            "regular_1v3_single": {
+                "chapters": [
+                    {
+                    "chapter_id":"bio-1",
+                    "chapter_name": " কোষ ও এর গঠন  (Cell and its structure)",
+                    "total_class": 4,
+                    "price": 2400
+                },
+                {
+                    "chapter_id":"bio-2",
+                    "chapter_name": " কোষ বিভাজন (Cell division)",
+                    "total_class": 3,
+                    "price": 1800
+                },
+                {
+                    "chapter_id":"bio-3",
+                    "chapter_name": " কোষ রসায়ন (Cell chemistry)",
+                    "total_class": 5,
+                    "price": 3000
+                },
+                {
+                    "chapter_id":"bio-4",
+                    "chapter_name": " অনুজীব (Micro-organism)",
+                    "total_class": 5,
+                    "price": 3000
+                },
+                {
+                    "chapter_id":"bio-5",
+                    "chapter_name": " শৈবাল ও ছত্রাক (Algae and fungi)",
+                    "total_class": 3,
+                    "price": 1800
+                },
+                {
+                    "chapter_id":"bio-6",
+                    "chapter_name": "ব্রায়োফাইটা ও টেরিডোফাইটা (Bryophyta and pteridophyta)",
+                    "total_class": 2,
+                    "price": 1200
+                },
+                {
+                    "chapter_id":"bio-7",
+                    "chapter_name": " নগ্নবীজী ও আবৃতবীজী উদ্ভিদ (Gymnosperms and angiosperms)",
+                    "total_class": 4,
+                    "price": 2400
+                },
+                {
+                    "chapter_id":"bio-8",
+                    "chapter_name": " টিস্যু ও টিস্যুতন্ত্র (Tissue and tissue system)",
+                    "total_class": 3,
+                    "price": 1800
+                },
+                {
+                    "chapter_id":"bio-9",
+                    "chapter_name": " উদ্ভিদ শারীরতত্ত্ব (Plant physiology)",
+                    "total_class": 10,
+                    "price": 6000
+                },
+                {
+                    "chapter_id":"bio-10",
+                    "chapter_name": " উদ্ভিদ প্রজনন (Plant reproduction)",
+                    "total_class": 3,
+                    "price": 1800
+                },
+                {
+                    "chapter_id":"bio-11",
+                    "chapter_name": " জীব প্রযুক্তি (Biotechnology)",
+                    "total_class": 3,
+                    "price": 1800
+                },
+                {
+                    "chapter_id":"bio-12",
+                    "chapter_name": " জীবের পরিবেশ, বিস্তার ও সংরক্ষণ (Environment, distribution and conservation of living organisms)",
+                    "total_class": 4,
+                    "price": 2400
+                },
+                {
+                    "chapter_id":"bio-13",
+                    "chapter_name": " প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস  (Animal diversity and classification)",
+                    "total_class": 4,
+                    "price": 2400
+                },
+                {
+                    "chapter_id":"bio-14",
+                    "chapter_name": " প্রাণীর পরিচিতি (Animal's identity)",
+                    "total_class": 6,
+                    "price": 3600
+                },
+                {
+                    "chapter_id":"bio-15",
+                    "chapter_name": " মানব শারীরতত্ত্বঃ পরিপাক ও শোষণ (Human physiology:Digestion & Absorption)",
+                    "total_class": 4,
+                    "price": 2400
+                },
+                {
+                    "chapter_id":"bio-16",
+                    "chapter_name": " মানব শারীরতত্ত্বঃ রক্ত ও সঞ্চালন (Human physiology:Blood & Circulation)",
+                    "total_class": 4,
+                    "price": 2400
+                },
+                {
+                    "chapter_id":"bio-17",
+                    "chapter_name": " মানব শারীরতত্ত্বঃ শ্বাসক্রিয়া ও শ্বসন (Human physiology:Respiration & Breathing)",
+                    "total_class": 3,
+                    "price": 1800
+                },
+                {
+                    "chapter_id":"bio-18",
+                    "chapter_name": "মানব শারীরতত্ত্বঃ বর্জয ও নিষ্কাশন (Human physiology:Wastes & Elimination)",
+                    "total_class": 2,
+                    "price": 1200
+                },
+                {
+                    "chapter_id":"bio-19",
+                    "chapter_name": " মানব শারীরতত্ত্বঃ চলন ও অঙ্গচালনা (Human physiology:Locomotion & Movement)",
+                    "total_class": 6,
+                    "price": 3600
+                },
+                {
+                    "chapter_id":"bio-20",
+                    "chapter_name": " মানব শারীরতত্ত্বঃ সমন্বয় ও নিয়ন্ত্রণ (Human physiology:Coordination & Control)",
+                    "total_class": 6,
+                    "price": 3600
+                },
+                {
+                    "chapter_id":"bio-21",
+                    "chapter_name": " মানব জীবনের ধারাবাহিকতা  (Continuation of human life)",
+                    "total_class": 5,
+                    "price": 3000
+                },
+                {
+                    "chapter_id":"bio-22",
+                    "chapter_name": " মানবদেহের প্রতিরক্ষা (ইমিউনিটি) (Protection of human body(Immunity))",
+                    "total_class": 5,
+                    "price": 3000
+                },
+                {
+                    "chapter_id":"bio-23",
+                    "chapter_name": " জিনতত্ত্ব ও বিবর্তন (Genetics and Evolution)",
+                    "total_class": 5,
+                    "price": 3000
+                },
+                {
+                    "chapter_id":"bio-24",
+                    "chapter_name": " প্রাণীর আচরণ (Animal behaviour)",
+                    "total_class": 3,
+                    "price": 1800
+                }
+                ]
+            },
+            "regular_1v3_group": {
+                "chapters": [
+                    {
+                    "chapter_id":"bio-1",
+                    "chapter_name": " কোষ ও এর গঠন  (Cell and its structure)",
+                    "total_class": 4,
+                    "price": 2400
+                },
+                {
+                    "chapter_id":"bio-2",
+                    "chapter_name": " কোষ বিভাজন (Cell division)",
+                    "total_class": 3,
+                    "price": 1800
+                },
+                {
+                    "chapter_id":"bio-3",
+                    "chapter_name": " কোষ রসায়ন (Cell chemistry)",
+                    "total_class": 5,
+                    "price": 3000
+                },
+                {
+                    "chapter_id":"bio-4",
+                    "chapter_name": " অনুজীব (Micro-organism)",
+                    "total_class": 5,
+                    "price": 3000
+                },
+                {
+                    "chapter_id":"bio-5",
+                    "chapter_name": " শৈবাল ও ছত্রাক (Algae and fungi)",
+                    "total_class": 3,
+                    "price": 1800
+                },
+                {
+                    "chapter_id":"bio-6",
+                    "chapter_name": "ব্রায়োফাইটা ও টেরিডোফাইটা (Bryophyta and pteridophyta)",
+                    "total_class": 2,
+                    "price": 1200
+                },
+                {
+                    "chapter_id":"bio-7",
+                    "chapter_name": " নগ্নবীজী ও আবৃতবীজী উদ্ভিদ (Gymnosperms and angiosperms)",
+                    "total_class": 4,
+                    "price": 2400
+                },
+                {
+                    "chapter_id":"bio-8",
+                    "chapter_name": " টিস্যু ও টিস্যুতন্ত্র (Tissue and tissue system)",
+                    "total_class": 3,
+                    "price": 1800
+                },
+                {
+                    "chapter_id":"bio-9",
+                    "chapter_name": " উদ্ভিদ শারীরতত্ত্ব (Plant physiology)",
+                    "total_class": 10,
+                    "price": 6000
+                },
+                {
+                    "chapter_id":"bio-10",
+                    "chapter_name": " উদ্ভিদ প্রজনন (Plant reproduction)",
+                    "total_class": 3,
+                    "price": 1800
+                },
+                {
+                    "chapter_id":"bio-11",
+                    "chapter_name": " জীব প্রযুক্তি (Biotechnology)",
+                    "total_class": 3,
+                    "price": 1800
+                },
+                {
+                    "chapter_id":"bio-12",
+                    "chapter_name": " জীবের পরিবেশ, বিস্তার ও সংরক্ষণ (Environment, distribution and conservation of living organisms)",
+                    "total_class": 4,
+                    "price": 2400
+                },
+                {
+                    "chapter_id":"bio-13",
+                    "chapter_name": " প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস  (Animal diversity and classification)",
+                    "total_class": 4,
+                    "price": 2400
+                },
+                {
+                    "chapter_id":"bio-14",
+                    "chapter_name": " প্রাণীর পরিচিতি (Animal's identity)",
+                    "total_class": 6,
+                    "price": 3600
+                },
+                {
+                    "chapter_id":"bio-15",
+                    "chapter_name": " মানব শারীরতত্ত্বঃ পরিপাক ও শোষণ (Human physiology:Digestion & Absorption)",
+                    "total_class": 4,
+                    "price": 2400
+                },
+                {
+                    "chapter_id":"bio-16",
+                    "chapter_name": " মানব শারীরতত্ত্বঃ রক্ত ও সঞ্চালন (Human physiology:Blood & Circulation)",
+                    "total_class": 4,
+                    "price": 2400
+                },
+                {
+                    "chapter_id":"bio-17",
+                    "chapter_name": " মানব শারীরতত্ত্বঃ শ্বাসক্রিয়া ও শ্বসন (Human physiology:Respiration & Breathing)",
+                    "total_class": 3,
+                    "price": 1800
+                },
+                {
+                    "chapter_id":"bio-18",
+                    "chapter_name": "মানব শারীরতত্ত্বঃ বর্জয ও নিষ্কাশন (Human physiology:Wastes & Elimination)",
+                    "total_class": 2,
+                    "price": 1200
+                },
+                {
+                    "chapter_id":"bio-19",
+                    "chapter_name": " মানব শারীরতত্ত্বঃ চলন ও অঙ্গচালনা (Human physiology:Locomotion & Movement)",
+                    "total_class": 6,
+                    "price": 3600
+                },
+                {
+                    "chapter_id":"bio-20",
+                    "chapter_name": " মানব শারীরতত্ত্বঃ সমন্বয় ও নিয়ন্ত্রণ (Human physiology:Coordination & Control)",
+                    "total_class": 6,
+                    "price": 3600
+                },
+                {
+                    "chapter_id":"bio-21",
+                    "chapter_name": " মানব জীবনের ধারাবাহিকতা  (Continuation of human life)",
+                    "total_class": 5,
+                    "price": 3000
+                },
+                {
+                    "chapter_id":"bio-22",
+                    "chapter_name": " মানবদেহের প্রতিরক্ষা (ইমিউনিটি) (Protection of human body(Immunity))",
+                    "total_class": 5,
+                    "price": 3000
+                },
+                {
+                    "chapter_id":"bio-23",
+                    "chapter_name": " জিনতত্ত্ব ও বিবর্তন (Genetics and Evolution)",
+                    "total_class": 5,
+                    "price": 3000
+                },
+                {
+                    "chapter_id":"bio-24",
+                    "chapter_name": " প্রাণীর আচরণ (Animal behaviour)",
+                    "total_class": 3,
+                    "price": 1800
+                }
+                ]
+            },
+            "test_paper_solve": {
+                "chapters": [
+                    {
+                    "chapter_id":"bio-1",
+                    "chapter_name": " কোষ ও এর গঠন  (Cell and its structure)",
+                    "total_class": 4,
+                    "price": 2400
+                },
+                {
+                    "chapter_id":"bio-2",
+                    "chapter_name": " কোষ বিভাজন (Cell division)",
+                    "total_class": 3,
+                    "price": 1800
+                },
+                {
+                    "chapter_id":"bio-3",
+                    "chapter_name": " কোষ রসায়ন (Cell chemistry)",
+                    "total_class": 5,
+                    "price": 3000
+                },
+                {
+                    "chapter_id":"bio-4",
+                    "chapter_name": " অনুজীব (Micro-organism)",
+                    "total_class": 5,
+                    "price": 3000
+                },
+                {
+                    "chapter_id":"bio-5",
+                    "chapter_name": " শৈবাল ও ছত্রাক (Algae and fungi)",
+                    "total_class": 3,
+                    "price": 1800
+                },
+                {
+                    "chapter_id":"bio-6",
+                    "chapter_name": "ব্রায়োফাইটা ও টেরিডোফাইটা (Bryophyta and pteridophyta)",
+                    "total_class": 2,
+                    "price": 1200
+                },
+                {
+                    "chapter_id":"bio-7",
+                    "chapter_name": " নগ্নবীজী ও আবৃতবীজী উদ্ভিদ (Gymnosperms and angiosperms)",
+                    "total_class": 4,
+                    "price": 2400
+                },
+                {
+                    "chapter_id":"bio-8",
+                    "chapter_name": " টিস্যু ও টিস্যুতন্ত্র (Tissue and tissue system)",
+                    "total_class": 3,
+                    "price": 1800
+                },
+                {
+                    "chapter_id":"bio-9",
+                    "chapter_name": " উদ্ভিদ শারীরতত্ত্ব (Plant physiology)",
+                    "total_class": 10,
+                    "price": 6000
+                },
+                {
+                    "chapter_id":"bio-10",
+                    "chapter_name": " উদ্ভিদ প্রজনন (Plant reproduction)",
+                    "total_class": 3,
+                    "price": 1800
+                },
+                {
+                    "chapter_id":"bio-11",
+                    "chapter_name": " জীব প্রযুক্তি (Biotechnology)",
+                    "total_class": 3,
+                    "price": 1800
+                },
+                {
+                    "chapter_id":"bio-12",
+                    "chapter_name": " জীবের পরিবেশ, বিস্তার ও সংরক্ষণ (Environment, distribution and conservation of living organisms)",
+                    "total_class": 4,
+                    "price": 2400
+                },
+                {
+                    "chapter_id":"bio-13",
+                    "chapter_name": " প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস  (Animal diversity and classification)",
+                    "total_class": 4,
+                    "price": 2400
+                },
+                {
+                    "chapter_id":"bio-14",
+                    "chapter_name": " প্রাণীর পরিচিতি (Animal's identity)",
+                    "total_class": 6,
+                    "price": 3600
+                },
+                {
+                    "chapter_id":"bio-15",
+                    "chapter_name": " মানব শারীরতত্ত্বঃ পরিপাক ও শোষণ (Human physiology:Digestion & Absorption)",
+                    "total_class": 4,
+                    "price": 2400
+                },
+                {
+                    "chapter_id":"bio-16",
+                    "chapter_name": " মানব শারীরতত্ত্বঃ রক্ত ও সঞ্চালন (Human physiology:Blood & Circulation)",
+                    "total_class": 4,
+                    "price": 2400
+                },
+                {
+                    "chapter_id":"bio-17",
+                    "chapter_name": " মানব শারীরতত্ত্বঃ শ্বাসক্রিয়া ও শ্বসন (Human physiology:Respiration & Breathing)",
+                    "total_class": 3,
+                    "price": 1800
+                },
+                {
+                    "chapter_id":"bio-18",
+                    "chapter_name": "মানব শারীরতত্ত্বঃ বর্জয ও নিষ্কাশন (Human physiology:Wastes & Elimination)",
+                    "total_class": 2,
+                    "price": 1200
+                },
+                {
+                    "chapter_id":"bio-19",
+                    "chapter_name": " মানব শারীরতত্ত্বঃ চলন ও অঙ্গচালনা (Human physiology:Locomotion & Movement)",
+                    "total_class": 6,
+                    "price": 3600
+                },
+                {
+                    "chapter_id":"bio-20",
+                    "chapter_name": " মানব শারীরতত্ত্বঃ সমন্বয় ও নিয়ন্ত্রণ (Human physiology:Coordination & Control)",
+                    "total_class": 6,
+                    "price": 3600
+                },
+                {
+                    "chapter_id":"bio-21",
+                    "chapter_name": " মানব জীবনের ধারাবাহিকতা  (Continuation of human life)",
+                    "total_class": 5,
+                    "price": 3000
+                },
+                {
+                    "chapter_id":"bio-22",
+                    "chapter_name": " মানবদেহের প্রতিরক্ষা (ইমিউনিটি) (Protection of human body(Immunity))",
+                    "total_class": 5,
+                    "price": 3000
+                },
+                {
+                    "chapter_id":"bio-23",
+                    "chapter_name": " জিনতত্ত্ব ও বিবর্তন (Genetics and Evolution)",
+                    "total_class": 5,
+                    "price": 3000
+                },
+                {
+                    "chapter_id":"bio-24",
+                    "chapter_name": " প্রাণীর আচরণ (Animal behaviour)",
+                    "total_class": 3,
+                    "price": 1800
+                }
+                ]
+            }
+        }
     }
 ]
