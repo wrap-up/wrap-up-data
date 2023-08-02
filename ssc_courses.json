@@ -343,395 +343,305 @@
         "course_type": {
             "regular": {
                 "chapters": [
+                     {
+                        "chapter_id":"chem-1",
+                        "chapter_name": " রসায়নের ধারণা (The Concepts of Chemistry)",
+                        "total_class": 1,
+                        "price": 550
+                    },
                     {
-                        "chapter_id": "chem-1",
-                        "chapter_name": " ল্যাবরেটরির নিরাপদ ব্যবহার (Safe Use of Laboratory)",
+                        "chapter_id":"chem-2",
+                        "chapter_name": " পদার্থের অবস্থা (States of Matter)",
                         "total_class": 2,
                         "price": 1100
                     },
                     {
-                        "chapter_id": "chem-2",
-                        "chapter_name": " গুণগত রসায়ন (Qualitative Chemistry) Part 1: Atomic Model",
-                        "total_class": 8,
-                        "price": 4400
+                        "chapter_id":"chem-3",
+                        "chapter_name": " পদার্থের গঠন (Structure of Matter)",
+                        "total_class": 4,
+                        "price": 2200
                     },
                     {
-                        "chapter_id": "chem-3",
-                        "chapter_name": " গুণগত রসায়ন (Qualitative Chemistry) Part 2: Solubility",
+                        "chapter_id":"chem-4",
+                        "chapter_name": " পর্যায় সারণি (Periodic Table)",
+                        "total_class": 4,
+                        "price": 2200
+                    },
+                    {
+                        "chapter_id":"chem-5",
+                        "chapter_name": " রাসায়নিক বন্ধন (Chemical Bond)",
                         "total_class": 5,
                         "price": 2750
                     },
                     {
-                        "chapter_id": "chem-4",
-                        "chapter_name": " মৌলের পর্যায়বৃত্ত ধর্ম ও রসায়নিক বন্ধন (Periodic Properties of Elements & Chemical Bonding) Part 1",
-                        "total_class": 7,
-                        "price": 3850
+                        "chapter_id":"chem-6",
+                        "chapter_name": " মোলের ধারণা ও রাসায়নিক গণনা (Concept of Mole and Chemical Counting)",
+                        "total_class": 5,
+                        "price": 2750
                     },
                     {
-                        "chapter_id": "chem-5",
-                        "chapter_name": " মৌলের পর্যায়বৃত্ত ধর্ম ও রসায়নিক বন্ধন (Periodic Properties of Elements & Chemical Bonding) Part 2",
-                        "total_class": 7,
-                        "price": 3850
-                    },
-                    {
-                        "chapter_id": "chem-6",
-                        "chapter_name": " রসায়নিক পরিবর্তন (Chemical Changes) Part 1",
-                        "total_class": 6,
-                        "price": 3300
-                    },
-                    {
-                        "chapter_id": "chem-7",
-                        "chapter_name": " রসায়নিক পরিবর্তন (Chemical Changes) Part 2",
-                        "total_class": 8,
-                        "price": 4400
-                    },
-                    {
-                        "chapter_id": "chem-8",
-                        "chapter_name": " কর্মমুখী রসায়ন (Application Oriented Chemistry)",
-                        "total_class": 3,
-                        "price": 1500
-                    },
-                    {
-                        "chapter_id": "chem-9",
-                        "chapter_name": " পরিবেশ রসায়ন (Environmental Chemistry)",
-                        "total_class": 8,
-                        "price": 4400
-                    },
-                    {
-                        "chapter_id": "chem-10",
-                        "chapter_name": " জৈব রসায়ন (Organic Chemistry) Part 1",
+                        "chapter_id":"chem-7",
+                        "chapter_name": " রাসায়নিক বিক্রিয়া (Chemical Reaction)",
                         "total_class": 4,
                         "price": 2200
                     },
                     {
-                        "chapter_id": "chem-11",
-                        "chapter_name": " জৈব রসায়ন (Organic Chemistry) Part 2",
+                        "chapter_id":"chem-8",
+                        "chapter_name": " রসায়ন ও শক্তি (Chemistry and Energy)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"chem-9",
+                        "chapter_name": " এসিড-ক্ষারক সমতা (Balance of Acid-Base)",
+                        "total_class": 4,
+                        "price": 2200
+                    },
+                    {
+                        "chapter_id":"chem-10",
+                        "chapter_name": " খনিজ সম্পদঃ ধাতু-অধাতু (Mineral Resources: Metals and Non-metals)",
+                        "total_class": 4,
+                        "price": 2200
+                    },
+                    {
+                        "chapter_id":"chem-11",
+                        "chapter_name": " খনিজ সম্পদঃ জীবাশ্ম (Mineral Resources: Fossils)",
+                        "total_class": 8,
+                        "price": 4400
+                    },
+                    {
+                        "chapter_id":"chem-12",
+                        "chapter_name": " আমাদের জীবনে রসায়ন (Chemistry in Our Lives)",
                         "total_class": 3,
                         "price": 1650
-                    },
-                    {
-                        "chapter_id": "chem-12",
-                        "chapter_name": " জৈব রসায়ন (Organic Chemistry) Part 3",
-                        "total_class": 4,
-                        "price": 2200
-                    },
-                    {
-                        "chapter_id": "chem-13",
-                        "chapter_name": " জৈব রসায়ন (Organic Chemistry) Part 4",
-                        "total_class": 3,
-                        "price": 1650
-                    },
-                    {
-                        "chapter_id": "chem-14",
-                        "chapter_name": " জৈব রসায়ন (Organic Chemistry) Part 5",
-                        "total_class": 4,
-                        "price": 2200
-                    },
-                    {
-                        "chapter_id": "chem-15",
-                        "chapter_name": "  পরিমাণগত রসায়ন (Quantitative Chemistry) Part 1",
-                        "total_class": 4,
-                        "price": 2200
-                    },
-                    {
-                        "chapter_id": "chem-16",
-                        "chapter_name": "  পরিমাণগত রসায়ন (Quantitative Chemistry) Part 2",
-                        "total_class": 6,
-                        "price": 3300
-                    },
-                    {
-                        "chapter_id": "chem-17",
-                        "chapter_name": " তড়িৎ রসায়ন (Electrochemistry)",
-                        "total_class": 8,
-                        "price": 4400
-                    },
-                    {
-                        "chapter_id": "chem-18",
-                        "chapter_name": " অর্থনৈতিক রসায়ন (Economic Chemistry)",
-                        "total_class": 4,
-                        "price": 2200
                     }
                 ]
             },
             "regular_1v3_single": {
                 "chapters": [
+                     {
+                        "chapter_id":"chem-1",
+                        "chapter_name": " রসায়নের ধারণা (The Concepts of Chemistry)",
+                        "total_class": 1,
+                        "price": 550
+                    },
                     {
-                        "chapter_id": "chem-1",
-                        "chapter_name": " ল্যাবরেটরির নিরাপদ ব্যবহার (Safe Use of Laboratory)",
+                        "chapter_id":"chem-2",
+                        "chapter_name": " পদার্থের অবস্থা (States of Matter)",
                         "total_class": 2,
-                        "price": 500
+                        "price": 1100
                     },
                     {
-                        "chapter_id": "chem-2",
-                        "chapter_name": " গুণগত রসায়ন (Qualitative Chemistry) Part 1: Atomic Model",
-                        "total_class": 8,
-                        "price": 2000
+                        "chapter_id":"chem-3",
+                        "chapter_name": " পদার্থের গঠন (Structure of Matter)",
+                        "total_class": 4,
+                        "price": 2200
                     },
                     {
-                        "chapter_id": "chem-3",
-                        "chapter_name": " গুণগত রসায়ন (Qualitative Chemistry) Part 2: Solubility",
+                        "chapter_id":"chem-4",
+                        "chapter_name": " পর্যায় সারণি (Periodic Table)",
+                        "total_class": 4,
+                        "price": 2200
+                    },
+                    {
+                        "chapter_id":"chem-5",
+                        "chapter_name": " রাসায়নিক বন্ধন (Chemical Bond)",
                         "total_class": 5,
-                        "price": 1250
+                        "price": 2750
                     },
                     {
-                        "chapter_id": "chem-4",
-                        "chapter_name": " মৌলের পর্যায়বৃত্ত ধর্ম ও রসায়নিক বন্ধন (Periodic Properties of Elements & Chemical Bonding) Part 1",
-                        "total_class": 7,
-                        "price": 1750
+                        "chapter_id":"chem-6",
+                        "chapter_name": " মোলের ধারণা ও রাসায়নিক গণনা (Concept of Mole and Chemical Counting)",
+                        "total_class": 5,
+                        "price": 2750
                     },
                     {
-                        "chapter_id": "chem-5",
-                        "chapter_name": " মৌলের পর্যায়বৃত্ত ধর্ম ও রসায়নিক বন্ধন (Periodic Properties of Elements & Chemical Bonding) Part 2",
-                        "total_class": 7,
-                        "price": 1750
+                        "chapter_id":"chem-7",
+                        "chapter_name": " রাসায়নিক বিক্রিয়া (Chemical Reaction)",
+                        "total_class": 4,
+                        "price": 2200
                     },
                     {
-                        "chapter_id": "chem-6",
-                        "chapter_name": " রসায়নিক পরিবর্তন (Chemical Changes) Part 1",
-                        "total_class": 6,
-                        "price": 1500
+                        "chapter_id":"chem-8",
+                        "chapter_name": " রসায়ন ও শক্তি (Chemistry and Energy)",
+                        "total_class": 5,
+                        "price": 2750
                     },
                     {
-                        "chapter_id": "chem-7",
-                        "chapter_name": " রসায়নিক পরিবর্তন (Chemical Changes) Part 2",
+                        "chapter_id":"chem-9",
+                        "chapter_name": " এসিড-ক্ষারক সমতা (Balance of Acid-Base)",
+                        "total_class": 4,
+                        "price": 2200
+                    },
+                    {
+                        "chapter_id":"chem-10",
+                        "chapter_name": " খনিজ সম্পদঃ ধাতু-অধাতু (Mineral Resources: Metals and Non-metals)",
+                        "total_class": 4,
+                        "price": 2200
+                    },
+                    {
+                        "chapter_id":"chem-11",
+                        "chapter_name": " খনিজ সম্পদঃ জীবাশ্ম (Mineral Resources: Fossils)",
                         "total_class": 8,
-                        "price": 2000
+                        "price": 4400
                     },
                     {
-                        "chapter_id": "chem-8",
-                        "chapter_name": " কর্মমুখী রসায়ন (Application Oriented Chemistry)",
+                        "chapter_id":"chem-12",
+                        "chapter_name": " আমাদের জীবনে রসায়ন (Chemistry in Our Lives)",
                         "total_class": 3,
-                        "price": 750
-                    },
-                    {
-                        "chapter_id": "chem-9",
-                        "chapter_name": " পরিবেশ রসায়ন (Environmental Chemistry)",
-                        "total_class": 8,
-                        "price": 2000
-                    },
-                    {
-                        "chapter_id": "chem-10",
-                        "chapter_name": " জৈব রসায়ন (Organic Chemistry) Part 1",
-                        "total_class": 4,
-                        "price": 1000
-                    },
-                    {
-                        "chapter_id": "chem-11",
-                        "chapter_name": " জৈব রসায়ন (Organic Chemistry) Part 2",
-                        "total_class": 3,
-                        "price": 750
-                    },
-                    {
-                        "chapter_id": "chem-12",
-                        "chapter_name": " জৈব রসায়ন (Organic Chemistry) Part 3",
-                        "total_class": 4,
-                        "price": 1000
-                    },
-                    {
-                        "chapter_id": "chem-13",
-                        "chapter_name": " জৈব রসায়ন (Organic Chemistry) Part 4",
-                        "total_class": 3,
-                        "price": 750
-                    },
-                    {
-                        "chapter_id": "chem-14",
-                        "chapter_name": " জৈব রসায়ন (Organic Chemistry) Part 5",
-                        "total_class": 4,
-                        "price": 1000
-                    },
-                    {
-                        "chapter_id": "chem-15",
-                        "chapter_name": " পরিমাণগত রসায়ন (Quantitative Chemistry) Part 1",
-                        "total_class": 4,
-                        "price": 1000
-                    },
-                    {
-                        "chapter_id": "chem-16",
-                        "chapter_name": " পরিমাণগত রসায়ন (Quantitative Chemistry) Part 2",
-                        "total_class": 6,
-                        "price": 1500
-                    },
-                    {
-                        "chapter_id": "chem-17",
-                        "chapter_name": " তড়িৎ রসায়ন (Electrochemistry)",
-                        "total_class": 8,
-                        "price": 2000
-                    },
-                    {
-                        "chapter_id": "chem-18",
-                        "chapter_name": " অর্থনৈতিক রসায়ন (Economic Chemistry)",
-                        "total_class": 4,
-                        "price": 1000
+                        "price": 1650
                     }
                 ]
             },
             "regular_1v3_group": {
                 "chapters": [
                     {
-                        "chapter_id": "chem-1",
-                        "chapter_name": " ল্যাবরেটরির নিরাপদ ব্যবহার (Safe Use of Laboratory)",
+                        "chapter_id":"chem-1",
+                        "chapter_name": " রসায়নের ধারণা (The Concepts of Chemistry)",
+                        "total_class": 1,
+                        "price": 550
+                    },
+                    {
+                        "chapter_id":"chem-2",
+                        "chapter_name": " পদার্থের অবস্থা (States of Matter)",
                         "total_class": 2,
-                        "price": 500
+                        "price": 1100
                     },
                     {
-                        "chapter_id": "chem-2",
-                        "chapter_name": " গুণগত রসায়ন (Qualitative Chemistry) Part 1: Atomic Model",
-                        "total_class": 8,
-                        "price": 2000
+                        "chapter_id":"chem-3",
+                        "chapter_name": " পদার্থের গঠন (Structure of Matter)",
+                        "total_class": 4,
+                        "price": 2200
                     },
                     {
-                        "chapter_id": "chem-3",
-                        "chapter_name": " গুণগত রসায়ন (Qualitative Chemistry) Part 2: Solubility",
+                        "chapter_id":"chem-4",
+                        "chapter_name": " পর্যায় সারণি (Periodic Table)",
+                        "total_class": 4,
+                        "price": 2200
+                    },
+                    {
+                        "chapter_id":"chem-5",
+                        "chapter_name": " রাসায়নিক বন্ধন (Chemical Bond)",
                         "total_class": 5,
-                        "price": 1250
+                        "price": 2750
                     },
                     {
-                        "chapter_id": "chem-4",
-                        "chapter_name": " মৌলের পর্যায়বৃত্ত ধর্ম ও রসায়নিক বন্ধন (Periodic Properties of Elements & Chemical Bonding) Part 1",
-                        "total_class": 7,
-                        "price": 1750
+                        "chapter_id":"chem-6",
+                        "chapter_name": " মোলের ধারণা ও রাসায়নিক গণনা (Concept of Mole and Chemical Counting)",
+                        "total_class": 5,
+                        "price": 2750
                     },
                     {
-                        "chapter_id": "chem-5",
-                        "chapter_name": " মৌলের পর্যায়বৃত্ত ধর্ম ও রসায়নিক বন্ধন (Periodic Properties of Elements & Chemical Bonding) Part 2",
-                        "total_class": 7,
-                        "price": 1750
+                        "chapter_id":"chem-7",
+                        "chapter_name": " রাসায়নিক বিক্রিয়া (Chemical Reaction)",
+                        "total_class": 4,
+                        "price": 2200
                     },
                     {
-                        "chapter_id": "chem-6",
-                        "chapter_name": " রসায়নিক পরিবর্তন (Chemical Changes) Part 1",
-                        "total_class": 6,
-                        "price": 1500
+                        "chapter_id":"chem-8",
+                        "chapter_name": " রসায়ন ও শক্তি (Chemistry and Energy)",
+                        "total_class": 5,
+                        "price": 2750
                     },
                     {
-                        "chapter_id": "chem-7",
-                        "chapter_name": " রসায়নিক পরিবর্তন (Chemical Changes) Part 2",
+                        "chapter_id":"chem-9",
+                        "chapter_name": " এসিড-ক্ষারক সমতা (Balance of Acid-Base)",
+                        "total_class": 4,
+                        "price": 2200
+                    },
+                    {
+                        "chapter_id":"chem-10",
+                        "chapter_name": " খনিজ সম্পদঃ ধাতু-অধাতু (Mineral Resources: Metals and Non-metals)",
+                        "total_class": 4,
+                        "price": 2200
+                    },
+                    {
+                        "chapter_id":"chem-11",
+                        "chapter_name": " খনিজ সম্পদঃ জীবাশ্ম (Mineral Resources: Fossils)",
                         "total_class": 8,
-                        "price": 2000
+                        "price": 4400
                     },
                     {
-                        "chapter_id": "chem-8",
-                        "chapter_name": " কর্মমুখী রসায়ন (Application Oriented Chemistry)",
+                        "chapter_id":"chem-12",
+                        "chapter_name": " আমাদের জীবনে রসায়ন (Chemistry in Our Lives)",
                         "total_class": 3,
-                        "price": 750
-                    },
-                    {
-                        "chapter_id": "chem-9",
-                        "chapter_name": " পরিবেশ রসায়ন (Environmental Chemistry)",
-                        "total_class": 8,
-                        "price": 2000
-                    },
-                    {
-                        "chapter_id": "chem-10",
-                        "chapter_name": " জৈব রসায়ন (Organic Chemistry) Part 1",
-                        "total_class": 4,
-                        "price": 1000
-                    },
-                    {
-                        "chapter_id": "chem-11",
-                        "chapter_name": " জৈব রসায়ন (Organic Chemistry) Part 2",
-                        "total_class": 3,
-                        "price": 750
-                    },
-                    {
-                        "chapter_id": "chem-12",
-                        "chapter_name": " জৈব রসায়ন (Organic Chemistry) Part 3",
-                        "total_class": 4,
-                        "price": 1000
-                    },
-                    {
-                        "chapter_id": "chem-13",
-                        "chapter_name": " জৈব রসায়ন (Organic Chemistry) Part 4",
-                        "total_class": 3,
-                        "price": 750
-                    },
-                    {
-                        "chapter_id": "chem-14",
-                        "chapter_name": " জৈব রসায়ন (Organic Chemistry) Part 5",
-                        "total_class": 4,
-                        "price": 1000
-                    },
-                    {
-                        "chapter_id": "chem-15",
-                        "chapter_name": " পরিমাণগত রসায়ন (Quantitative Chemistry) Part 1",
-                        "total_class": 4,
-                        "price": 1000
-                    },
-                    {
-                        "chapter_id": "chem-16",
-                        "chapter_name": " পরিমাণগত রসায়ন (Quantitative Chemistry) Part 2",
-                        "total_class": 6,
-                        "price": 1500
-                    },
-                    {
-                        "chapter_id": "chem-17",
-                        "chapter_name": " তড়িৎ রসায়ন (Electrochemistry)",
-                        "total_class": 8,
-                        "price": 2000
-                    },
-                    {
-                        "chapter_id": "chem-18",
-                        "chapter_name": " অর্থনৈতিক রসায়ন (Economic Chemistry)",
-                        "total_class": 4,
-                        "price": 1000
+                        "price": 1650
                     }
                 ]
             },
             "test_paper_solve": {
                 "chapters": [
-                    {
-                        "chapter_id": "chem-1",
-                        "chapter_name": " ল্যাবরেটরির নিরাপদ ব্যবহার (Safe Use of Laboratory)",
-                        "Class": 1,
-                        "price": 750
+                     {
+                        "chapter_id":"chem-1",
+                        "chapter_name": " রসায়নের ধারণা (The Concepts of Chemistry)",
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
-                        "chapter_id": "chem-2",
-                        "chapter_name": " গুণগত রসায়ন (Qualitative Chemistry)",
-                        "Class": 1,
-                        "price": 750
+                        "chapter_id":"chem-2",
+                        "chapter_name": " পদার্থের অবস্থা (States of Matter)",
+                        "total_class": 2,
+                        "price": 1100
                     },
                     {
-                        "chapter_id": "chem-3",
-                        "chapter_name": " মৌলের পর্যায়বৃত্ত ধর্ম ও রসায়নিক বন্ধন (Periodic Properties of Elements & Chemical Bonding)",
-                        "Class": 1,
-                        "price": 750
+                        "chapter_id":"chem-3",
+                        "chapter_name": " পদার্থের গঠন (Structure of Matter)",
+                        "total_class": 4,
+                        "price": 2200
                     },
                     {
-                        "chapter_id": "chem-4",
-                        "chapter_name": " রসায়নিক পরিবর্তন (Chemical Changes)",
-                        "Class": 1,
-                        "price": 750
+                        "chapter_id":"chem-4",
+                        "chapter_name": " পর্যায় সারণি (Periodic Table)",
+                        "total_class": 4,
+                        "price": 2200
                     },
                     {
-                        "chapter_id": "chem-5",
-                        "chapter_name": " কর্মমুখী রসায়ন (Application Oriented Chemistry)",
-                        "Class": 1,
-                        "price": 750
+                        "chapter_id":"chem-5",
+                        "chapter_name": " রাসায়নিক বন্ধন (Chemical Bond)",
+                        "total_class": 5,
+                        "price": 2750
                     },
                     {
-                        "chapter_id": "chem-6",
-                        "chapter_name": " পরিবেশ রসায়ন (Environmental Chemistry)",
-                        "Class": 1,
-                        "price": 750
+                        "chapter_id":"chem-6",
+                        "chapter_name": " মোলের ধারণা ও রাসায়নিক গণনা (Concept of Mole and Chemical Counting)",
+                        "total_class": 5,
+                        "price": 2750
                     },
                     {
-                        "chapter_id": "chem-7",
-                        "chapter_name": " জৈব রসায়ন (Organic Chemistry)",
-                        "Class": 1,
-                        "price": 750
+                        "chapter_id":"chem-7",
+                        "chapter_name": " রাসায়নিক বিক্রিয়া (Chemical Reaction)",
+                        "total_class": 4,
+                        "price": 2200
                     },
                     {
-                        "chapter_id": "chem-8",
-                        "chapter_name": " তড়িৎ রসায়ন (Electrochemistry)",
-                        "Class": 1,
-                        "price": 750
+                        "chapter_id":"chem-8",
+                        "chapter_name": " রসায়ন ও শক্তি (Chemistry and Energy)",
+                        "total_class": 5,
+                        "price": 2750
                     },
                     {
-                        "chapter_id": "chem-9",
-                        "chapter_name": " অর্থনৈতিক রসায়ন (Economic Chemistry)",
-                        "Class": 1,
-                        "price": 750
+                        "chapter_id":"chem-9",
+                        "chapter_name": " এসিড-ক্ষারক সমতা (Balance of Acid-Base)",
+                        "total_class": 4,
+                        "price": 2200
+                    },
+                    {
+                        "chapter_id":"chem-10",
+                        "chapter_name": " খনিজ সম্পদঃ ধাতু-অধাতু (Mineral Resources: Metals and Non-metals)",
+                        "total_class": 4,
+                        "price": 2200
+                    },
+                    {
+                        "chapter_id":"chem-11",
+                        "chapter_name": " খনিজ সম্পদঃ জীবাশ্ম (Mineral Resources: Fossils)",
+                        "total_class": 8,
+                        "price": 4400
+                    },
+                    {
+                        "chapter_id":"chem-12",
+                        "chapter_name": " আমাদের জীবনে রসায়ন (Chemistry in Our Lives)",
+                        "total_class": 3,
+                        "price": 1650
                     }
                 ]
             }
