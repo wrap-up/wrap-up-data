@@ -1430,5 +1430,339 @@
                 ]
             }
         }
+    },
+    {
+        "id": 5,
+        "subject": "biology",
+        "course_type": {
+            "regular": {
+                "chapters": [
+                  {
+                        "chapter_id":"bio-1",
+                        "chapter_name": "জীবন পাঠ (Life Lesson)",
+                        "total_class": 1,
+                        "price": 550
+                    },
+                    {
+                        "chapter_id":"bio-2",
+                        "chapter_name": " জীব কোষ ও টিস্যু (Cell and Tissue)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-3",
+                        "chapter_name": " কোষ বিভাজন (Cell Division)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-4",
+                        "chapter_name": " জীবনীশক্তি(Bioenergetics)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-5",
+                        "chapter_name": " খাদ্য , পুষ্টি ও পরিপাক (Food, Nutrition and Digestion)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-6",
+                        "chapter_name": " জীবে পরিবহন (Transport in Living Organism)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-7",
+                        "chapter_name": " গ্যাসীয় বিনিময় (Gaseous Exchange)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-8",
+                        "chapter_name": "রেচন প্রক্রিয়া  ",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-9",
+                        "chapter_name": " দৃঢ়তা প্রদান ও চলন (Support and Movement)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-10",
+                        "chapter_name": " সমন্বয় (Life Process)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-11",
+                        "chapter_name": " জীবের বংশগতি ও বিবর্তন (Heredity and Evolution)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-12",
+                        "chapter_name": " জীবের পরিবেশ (Environment)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-13",
+                        "chapter_name": " জীব প্রযুক্তি (Biotechnology)",
+                        "total_class": 5,
+                        "price": 2750
+                    }
+                ]
+            },
+            "regular_1v3_single": {
+                "chapters": [
+                    {
+                        "chapter_id":"bio-1",
+                        "chapter_name": "জীবন পাঠ (Life Lesson)",
+                        "total_class": 1,
+                        "price": 550
+                    },
+                    {
+                        "chapter_id":"bio-2",
+                        "chapter_name": " জীব কোষ ও টিস্যু (Cell and Tissue)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-3",
+                        "chapter_name": " কোষ বিভাজন (Cell Division)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-4",
+                        "chapter_name": " জীবনীশক্তি(Bioenergetics)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-5",
+                        "chapter_name": " খাদ্য , পুষ্টি ও পরিপাক (Food, Nutrition and Digestion)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-6",
+                        "chapter_name": " জীবে পরিবহন (Transport in Living Organism)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-7",
+                        "chapter_name": " গ্যাসীয় বিনিময় (Gaseous Exchange)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-8",
+                        "chapter_name": "রেচন প্রক্রিয়া  ",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-9",
+                        "chapter_name": " দৃঢ়তা প্রদান ও চলন (Support and Movement)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-10",
+                        "chapter_name": " সমন্বয় (Life Process)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-11",
+                        "chapter_name": " জীবের বংশগতি ও বিবর্তন (Heredity and Evolution)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-12",
+                        "chapter_name": " জীবের পরিবেশ (Environment)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-13",
+                        "chapter_name": " জীব প্রযুক্তি (Biotechnology)",
+                        "total_class": 5,
+                        "price": 2750
+                    }
+                ]
+            },
+            "regular_1v3_group": {
+                "chapters": [
+                    {
+                        "chapter_id":"bio-1",
+                        "chapter_name": "জীবন পাঠ (Life Lesson)",
+                        "total_class": 1,
+                        "price": 550
+                    },
+                    {
+                        "chapter_id":"bio-2",
+                        "chapter_name": " জীব কোষ ও টিস্যু (Cell and Tissue)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-3",
+                        "chapter_name": " কোষ বিভাজন (Cell Division)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-4",
+                        "chapter_name": " জীবনীশক্তি(Bioenergetics)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-5",
+                        "chapter_name": " খাদ্য , পুষ্টি ও পরিপাক (Food, Nutrition and Digestion)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-6",
+                        "chapter_name": " জীবে পরিবহন (Transport in Living Organism)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-7",
+                        "chapter_name": " গ্যাসীয় বিনিময় (Gaseous Exchange)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-8",
+                        "chapter_name": "রেচন প্রক্রিয়া  ",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-9",
+                        "chapter_name": " দৃঢ়তা প্রদান ও চলন (Support and Movement)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-10",
+                        "chapter_name": " সমন্বয় (Life Process)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-11",
+                        "chapter_name": " জীবের বংশগতি ও বিবর্তন (Heredity and Evolution)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-12",
+                        "chapter_name": " জীবের পরিবেশ (Environment)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-13",
+                        "chapter_name": " জীব প্রযুক্তি (Biotechnology)",
+                        "total_class": 5,
+                        "price": 2750
+                    }
+                ]
+            },
+            "test_paper_solve": {
+                "chapters": [
+                    {
+                        "chapter_id":"bio-1",
+                        "chapter_name": "জীবন পাঠ (Life Lesson)",
+                        "total_class": 1,
+                        "price": 550
+                    },
+                    {
+                        "chapter_id":"bio-2",
+                        "chapter_name": " জীব কোষ ও টিস্যু (Cell and Tissue)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-3",
+                        "chapter_name": " কোষ বিভাজন (Cell Division)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-4",
+                        "chapter_name": " জীবনীশক্তি(Bioenergetics)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-5",
+                        "chapter_name": " খাদ্য , পুষ্টি ও পরিপাক (Food, Nutrition and Digestion)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-6",
+                        "chapter_name": " জীবে পরিবহন (Transport in Living Organism)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-7",
+                        "chapter_name": " গ্যাসীয় বিনিময় (Gaseous Exchange)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-8",
+                        "chapter_name": "রেচন প্রক্রিয়া  ",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-9",
+                        "chapter_name": " দৃঢ়তা প্রদান ও চলন (Support and Movement)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-10",
+                        "chapter_name": " সমন্বয় (Life Process)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-11",
+                        "chapter_name": " জীবের বংশগতি ও বিবর্তন (Heredity and Evolution)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-12",
+                        "chapter_name": " জীবের পরিবেশ (Environment)",
+                        "total_class": 5,
+                        "price": 2750
+                    },
+                    {
+                        "chapter_id":"bio-13",
+                        "chapter_name": " জীব প্রযুক্তি (Biotechnology)",
+                        "total_class": 5,
+                        "price": 2750
+                    }
+                ]
+            }
+        }
     }
 ]
