@@ -8,80 +8,86 @@
                     {
                         "chapter_id":"high-math-1",
                         "chapter_name": "সেট ও ফাংশন (Set and Function)",
-                        "total_class": 6,
-                        "price": 3300
+                        "total_class": 8,
+                        "price": 4400
                     },
                     {
                         "chapter_id":"high-math-2",
                         "chapter_name": " বীজগাণিতিক রাশি (Aklgebraic Expressions)",
-                        "total_class": 10,
-                        "price": 5500
+                        "total_class": 5,
+                        "price": 2750
                     },
                     {
                         "chapter_id":"high-math-3",
                         "chapter_name": "জ্যামিতি (Geometry)",
-                        "total_class": 10,
-                        "price": 5500
+                        "total_class": 4,
+                        "price": 2200
                     },
                     {
                         "chapter_id":"high-math-4",
                         "chapter_name": " জ্যামিতিক অঙ্কন (Geometric Construction)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 3,
+                        "price": 1650
                     },
                     {
                         "chapter_id":"high-math-5",
                         "chapter_name": " সমীকরণ (Equation)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 8,
+                        "price": 4400
                     },
-                    {
+                   {
                         "chapter_id":"high-math-6",
-                        "chapter_name": " অসীম ধারা (Infinite Series)",
-                        "total_class": 5,
-                        "price": 2750
+                        "chapter_name": " অসমতা (Inequality)",
+                        "total_class": 3,
+                        "price": 1650
                     },
                     {
                         "chapter_id":"high-math-7",
-                        "chapter_name": " ত্রিকোণমিতি (Trigonometry)",
-                        "total_class": 10,
-                        "price": 5500
+                        "chapter_name": " অসীম ধারা (Infinite Series)",
+                        "total_class": 4,
+                        "price": 2200
                     },
                     {
                         "chapter_id":"high-math-8",
-                        "chapter_name": " সূচক ও লগারিদম (Exponents and Logarithms)",
+                        "chapter_name": " ত্রিকোণমিতি (Trigonometry)",
                         "total_class": 6,
                         "price": 3300
                     },
                     {
                         "chapter_id":"high-math-9",
-                        "chapter_name": "দ্বিপদী বিস্তৃতি (Binomial Expansion)",
+                        "chapter_name": " সূচক ও লগারিদম (Exponents and Logarithms)",
                         "total_class": 5,
                         "price": 2750
                     },
                     {
                         "chapter_id":"high-math-10",
-                        "chapter_name": " স্হানগতিক জ্যামিতি (Coordinate Geometry)",
-                        "total_class": 5,
-                        "price": 2750
+                        "chapter_name": "দ্বিপদী বিস্তৃতি (Binomial Expansion)",
+                        "total_class": 4,
+                        "price": 2200
                     },
                     {
                         "chapter_id":"high-math-11",
+                        "chapter_name": "স্থানাঙ্ক জ্যামিতি (Coordinate Geometry)",
+                        "total_class": 7,
+                        "price": 3850
+                    },
+                    {
+                        "chapter_id":"high-math-12",
                         "chapter_name": " সমতলীয় ভেক্টর (Plane Vector)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 4,
+                        "price": 2200
                     },
                     {   
-                        "chapter_id":"high-math-12",
+                        "chapter_id":"high-math-13",
                         "chapter_name": " ঘন জ্যামিতি (Solid Geometry)",
                         "total_class": 5,
                         "price": 2750
                     },
                     {
-                        "chapter_id":"high-math-13",
+                        "chapter_id":"high-math-14",
                         "chapter_name": " সম্ভাব্যতা (Probability)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 3,
+                        "price": 1650
                     }
                 ]
             },
@@ -90,80 +96,86 @@
                     {
                         "chapter_id":"high-math-1",
                         "chapter_name": "সেট ও ফাংশন (Set and Function)",
-                        "total_class": 6,
-                        "price": 3300
+                        "total_class": 8,
+                        "price": 2000
                     },
                     {
                         "chapter_id":"high-math-2",
                         "chapter_name": " বীজগাণিতিক রাশি (Aklgebraic Expressions)",
-                        "total_class": 10,
-                        "price": 5500
+                        "total_class": 5,
+                        "price": 1250
                     },
                     {
                         "chapter_id":"high-math-3",
                         "chapter_name": "জ্যামিতি (Geometry)",
-                        "total_class": 10,
-                        "price": 5500
+                        "total_class": 4,
+                        "price": 1000
                     },
                     {
                         "chapter_id":"high-math-4",
                         "chapter_name": " জ্যামিতিক অঙ্কন (Geometric Construction)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 3,
+                        "price": 750
                     },
                     {
                         "chapter_id":"high-math-5",
                         "chapter_name": " সমীকরণ (Equation)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 8,
+                        "price": 2000
                     },
                     {
                         "chapter_id":"high-math-6",
-                        "chapter_name": " অসীম ধারা (Infinite Series)",
-                        "total_class": 5,
-                        "price": 2750
+                        "chapter_name": " অসমতা (Inequality)",
+                        "total_class": 3,
+                        "price": 750
                     },
                     {
                         "chapter_id":"high-math-7",
-                        "chapter_name": " ত্রিকোণমিতি (Trigonometry)",
-                        "total_class": 10,
-                        "price": 5500
+                        "chapter_name": " অসীম ধারা (Infinite Series)",
+                        "total_class": 4,
+                        "price": 1000
                     },
                     {
                         "chapter_id":"high-math-8",
-                        "chapter_name": " সূচক ও লগারিদম (Exponents and Logarithms)",
+                        "chapter_name": " ত্রিকোণমিতি (Trigonometry)",
                         "total_class": 6,
-                        "price": 3300
+                        "price": 1500
                     },
                     {
                         "chapter_id":"high-math-9",
-                        "chapter_name": "দ্বিপদী বিস্তৃতি (Binomial Expansion)",
+                        "chapter_name": " সূচকীয় ও লগাদিরমীয় ফাংশন (Exponential and Logarithmic Function",
                         "total_class": 5,
-                        "price": 2750
+                        "price": 1250
                     },
                     {
                         "chapter_id":"high-math-10",
-                        "chapter_name": " স্হানগতিক জ্যামিতি (Coordinate Geometry)",
-                        "total_class": 5,
-                        "price": 2750
+                        "chapter_name": "দ্বিপদী বিস্তৃতি (Binomial Expansion)",
+                        "total_class": 4,
+                        "price": 1000
                     },
                     {
                         "chapter_id":"high-math-11",
-                        "chapter_name": " সমতলীয় ভেক্টর (Plane Vector)",
-                        "total_class": 5,
-                        "price": 2750
-                    },
-                    {   
-                        "chapter_id":"high-math-12",
-                        "chapter_name": " ঘন জ্যামিতি (Solid Geometry)",
-                        "total_class": 5,
-                        "price": 2750
+                        "chapter_name": " স্থানাঙ্ক জ্যামিতি (Coordinate Geometry)",
+                        "total_class": 7,
+                        "price": 1750
                     },
                     {
+                        "chapter_id":"high-math-12",
+                        "chapter_name": " সমতলীয় ভেক্টর (Plane Vector)",
+                        "total_class": 4,
+                        "price": 1000
+                    },
+                    {   
                         "chapter_id":"high-math-13",
-                        "chapter_name": " সম্ভাব্যতা (Probability)",
+                        "chapter_name": " ঘন জ্যামিতি (Solid Geometry)",
                         "total_class": 5,
-                        "price": 2750
+                        "price": 1250
+                    },
+                    {
+                        "chapter_id":"high-math-14",
+                        "chapter_name": " সম্ভাব্যতা (Probability)",
+                        "total_class": 3,
+                        "price": 750
                     }
                 ]
             },
@@ -172,80 +184,86 @@
                     {
                         "chapter_id":"high-math-1",
                         "chapter_name": "সেট ও ফাংশন (Set and Function)",
-                        "total_class": 6,
-                        "price": 3300
+                        "total_class": 8,
+                        "price": 6000
                     },
                     {
                         "chapter_id":"high-math-2",
                         "chapter_name": " বীজগাণিতিক রাশি (Aklgebraic Expressions)",
-                        "total_class": 10,
-                        "price": 5500
+                        "total_class": 5,
+                        "price": 3750
                     },
                     {
                         "chapter_id":"high-math-3",
                         "chapter_name": "জ্যামিতি (Geometry)",
-                        "total_class": 10,
-                        "price": 5500
+                        "total_class": 4,
+                        "price": 3000
                     },
                     {
                         "chapter_id":"high-math-4",
                         "chapter_name": " জ্যামিতিক অঙ্কন (Geometric Construction)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 3,
+                        "price": 2250
                     },
                     {
                         "chapter_id":"high-math-5",
                         "chapter_name": " সমীকরণ (Equation)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 8,
+                        "price": 6000
                     },
                     {
                         "chapter_id":"high-math-6",
-                        "chapter_name": " অসীম ধারা (Infinite Series)",
-                        "total_class": 5,
-                        "price": 2750
+                        "chapter_name": " অসমতা (Inequality)",
+                        "total_class": 3,
+                        "price": 750
                     },
                     {
                         "chapter_id":"high-math-7",
-                        "chapter_name": " ত্রিকোণমিতি (Trigonometry)",
-                        "total_class": 10,
-                        "price": 5500
+                        "chapter_name": " অসীম ধারা (Infinite Series)",
+                        "total_class": 4,
+                        "price": 3000
                     },
                     {
                         "chapter_id":"high-math-8",
-                        "chapter_name": " সূচক ও লগারিদম (Exponents and Logarithms)",
+                        "chapter_name": " ত্রিকোণমিতি (Trigonometry)",
                         "total_class": 6,
-                        "price": 3300
+                        "price": 4500
                     },
                     {
                         "chapter_id":"high-math-9",
-                        "chapter_name": "দ্বিপদী বিস্তৃতি (Binomial Expansion)",
+                        "chapter_name": " সূচকীয় ও লগাদিরমীয় ফাংশন (Exponential and Logarithmic Function",
                         "total_class": 5,
-                        "price": 2750
+                        "price": 3750
                     },
                     {
                         "chapter_id":"high-math-10",
-                        "chapter_name": " স্হানগতিক জ্যামিতি (Coordinate Geometry)",
-                        "total_class": 5,
-                        "price": 2750
+                        "chapter_name": "দ্বিপদী বিস্তৃতি (Binomial Expansion)",
+                        "total_class": 4,
+                        "price": 3000
                     },
                     {
                         "chapter_id":"high-math-11",
-                        "chapter_name": " সমতলীয় ভেক্টর (Plane Vector)",
-                        "total_class": 5,
-                        "price": 2750
-                    },
-                    {   
-                        "chapter_id":"high-math-12",
-                        "chapter_name": " ঘন জ্যামিতি (Solid Geometry)",
-                        "total_class": 5,
-                        "price": 2750
+                        "chapter_name": " স্থানাঙ্ক জ্যামিতি (Coordinate Geometry)",
+                        "total_class": 7,
+                        "price": 5250
                     },
                     {
+                        "chapter_id":"high-math-12",
+                        "chapter_name": " সমতলীয় ভেক্টর (Plane Vector)",
+                        "total_class": 4,
+                        "price": 3000
+                    },
+                    {   
                         "chapter_id":"high-math-13",
-                        "chapter_name": " সম্ভাব্যতা (Probability)",
+                        "chapter_name": " ঘন জ্যামিতি (Solid Geometry)",
                         "total_class": 5,
-                        "price": 2750
+                        "price": 3750
+                    },
+                    {
+                        "chapter_id":"high-math-14",
+                        "chapter_name": " সম্ভাব্যতা (Probability)",
+                        "total_class": 3,
+                        "price": 2250
                     }
                 ]
             },
@@ -254,80 +272,86 @@
                     {
                         "chapter_id":"high-math-1",
                         "chapter_name": "সেট ও ফাংশন (Set and Function)",
-                        "total_class": 6,
-                        "price": 3300
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"high-math-2",
                         "chapter_name": " বীজগাণিতিক রাশি (Aklgebraic Expressions)",
-                        "total_class": 10,
-                        "price": 5500
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"high-math-3",
                         "chapter_name": "জ্যামিতি (Geometry)",
-                        "total_class": 10,
-                        "price": 5500
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"high-math-4",
                         "chapter_name": " জ্যামিতিক অঙ্কন (Geometric Construction)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"high-math-5",
                         "chapter_name": " সমীকরণ (Equation)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"high-math-6",
-                        "chapter_name": " অসীম ধারা (Infinite Series)",
-                        "total_class": 5,
-                        "price": 2750
+                        "chapter_name": " অসমতা (Inequality)",
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"high-math-7",
-                        "chapter_name": " ত্রিকোণমিতি (Trigonometry)",
-                        "total_class": 10,
-                        "price": 5500
+                        "chapter_name": " অসীম ধারা (Infinite Series)",
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"high-math-8",
-                        "chapter_name": " সূচক ও লগারিদম (Exponents and Logarithms)",
-                        "total_class": 6,
-                        "price": 3300
+                        "chapter_name": " ত্রিকোণমিতি (Trigonometry)",
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"high-math-9",
-                        "chapter_name": "দ্বিপদী বিস্তৃতি (Binomial Expansion)",
-                        "total_class": 5,
-                        "price": 2750
+                        "chapter_name": " সূচক ও লগারিদম (Exponents and Logarithms)",
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"high-math-10",
-                        "chapter_name": " স্হানগতিক জ্যামিতি (Coordinate Geometry)",
-                        "total_class": 5,
-                        "price": 2750
+                        "chapter_name": "দ্বিপদী বিস্তৃতি (Binomial Expansion)",
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"high-math-11",
-                        "chapter_name": " সমতলীয় ভেক্টর (Plane Vector)",
-                        "total_class": 5,
-                        "price": 2750
-                    },
-                    {   
-                        "chapter_id":"high-math-12",
-                        "chapter_name": " ঘন জ্যামিতি (Solid Geometry)",
-                        "total_class": 5,
-                        "price": 2750
+                        "chapter_name": " স্হানগতিক জ্যামিতি (Coordinate Geometry)",
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
+                        "chapter_id":"high-math-12",
+                        "chapter_name": " সমতলীয় ভেক্টর (Plane Vector)",
+                        "total_class": 1,
+                        "price": 550
+                    },
+                    {   
                         "chapter_id":"high-math-13",
+                        "chapter_name": " ঘন জ্যামিতি (Solid Geometry)",
+                        "total_class": 1,
+                        "price": 550
+                    },
+                    {
+                        "chapter_id":"high-math-14",
                         "chapter_name": " সম্ভাব্যতা (Probability)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 1,
+                        "price": 550
                     }
                 ]
             }
@@ -419,73 +443,73 @@
                         "chapter_id":"chem-1",
                         "chapter_name": " রসায়নের ধারণা (The Concepts of Chemistry)",
                         "total_class": 1,
-                        "price": 550
+                        "price": 250
                     },
                     {
                         "chapter_id":"chem-2",
                         "chapter_name": " পদার্থের অবস্থা (States of Matter)",
                         "total_class": 2,
-                        "price": 1100
+                        "price": 500
                     },
                     {
                         "chapter_id":"chem-3",
                         "chapter_name": " পদার্থের গঠন (Structure of Matter)",
                         "total_class": 4,
-                        "price": 2200
+                        "price": 1000
                     },
                     {
                         "chapter_id":"chem-4",
                         "chapter_name": " পর্যায় সারণি (Periodic Table)",
                         "total_class": 4,
-                        "price": 2200
+                        "price": 1000
                     },
                     {
                         "chapter_id":"chem-5",
                         "chapter_name": " রাসায়নিক বন্ধন (Chemical Bond)",
                         "total_class": 5,
-                        "price": 2750
+                        "price": 1250
                     },
                     {
                         "chapter_id":"chem-6",
                         "chapter_name": " মোলের ধারণা ও রাসায়নিক গণনা (Concept of Mole and Chemical Counting)",
                         "total_class": 5,
-                        "price": 2750
+                        "price": 1250
                     },
                     {
                         "chapter_id":"chem-7",
                         "chapter_name": " রাসায়নিক বিক্রিয়া (Chemical Reaction)",
                         "total_class": 4,
-                        "price": 2200
+                        "price": 1000
                     },
                     {
                         "chapter_id":"chem-8",
                         "chapter_name": " রসায়ন ও শক্তি (Chemistry and Energy)",
                         "total_class": 5,
-                        "price": 2750
+                        "price": 1250
                     },
                     {
                         "chapter_id":"chem-9",
                         "chapter_name": " এসিড-ক্ষারক সমতা (Balance of Acid-Base)",
                         "total_class": 4,
-                        "price": 2200
+                        "price": 1000
                     },
                     {
                         "chapter_id":"chem-10",
                         "chapter_name": " খনিজ সম্পদঃ ধাতু-অধাতু (Mineral Resources: Metals and Non-metals)",
                         "total_class": 4,
-                        "price": 2200
+                        "price": 1000
                     },
                     {
                         "chapter_id":"chem-11",
                         "chapter_name": " খনিজ সম্পদঃ জীবাশ্ম (Mineral Resources: Fossils)",
                         "total_class": 8,
-                        "price": 4400
+                        "price": 2000
                     },
                     {
                         "chapter_id":"chem-12",
                         "chapter_name": " আমাদের জীবনে রসায়ন (Chemistry in Our Lives)",
                         "total_class": 3,
-                        "price": 1650
+                        "price": 750
                     }
                 ]
             },
@@ -495,79 +519,79 @@
                         "chapter_id":"chem-1",
                         "chapter_name": " রসায়নের ধারণা (The Concepts of Chemistry)",
                         "total_class": 1,
-                        "price": 550
+                        "price": 750
                     },
                     {
                         "chapter_id":"chem-2",
                         "chapter_name": " পদার্থের অবস্থা (States of Matter)",
                         "total_class": 2,
-                        "price": 1100
+                        "price": 1500
                     },
                     {
                         "chapter_id":"chem-3",
                         "chapter_name": " পদার্থের গঠন (Structure of Matter)",
                         "total_class": 4,
-                        "price": 2200
+                        "price": 3000
                     },
                     {
                         "chapter_id":"chem-4",
                         "chapter_name": " পর্যায় সারণি (Periodic Table)",
                         "total_class": 4,
-                        "price": 2200
+                        "price": 3000
                     },
                     {
                         "chapter_id":"chem-5",
                         "chapter_name": " রাসায়নিক বন্ধন (Chemical Bond)",
                         "total_class": 5,
-                        "price": 2750
+                        "price": 3750
                     },
                     {
                         "chapter_id":"chem-6",
                         "chapter_name": " মোলের ধারণা ও রাসায়নিক গণনা (Concept of Mole and Chemical Counting)",
                         "total_class": 5,
-                        "price": 2750
+                        "price": 3750
                     },
                     {
                         "chapter_id":"chem-7",
                         "chapter_name": " রাসায়নিক বিক্রিয়া (Chemical Reaction)",
                         "total_class": 4,
-                        "price": 2200
+                        "price": 3000
                     },
                     {
                         "chapter_id":"chem-8",
                         "chapter_name": " রসায়ন ও শক্তি (Chemistry and Energy)",
                         "total_class": 5,
-                        "price": 2750
+                        "price": 3750
                     },
                     {
                         "chapter_id":"chem-9",
                         "chapter_name": " এসিড-ক্ষারক সমতা (Balance of Acid-Base)",
                         "total_class": 4,
-                        "price": 2200
+                        "price": 3000
                     },
                     {
                         "chapter_id":"chem-10",
                         "chapter_name": " খনিজ সম্পদঃ ধাতু-অধাতু (Mineral Resources: Metals and Non-metals)",
                         "total_class": 4,
-                        "price": 2200
+                        "price": 3000
                     },
                     {
                         "chapter_id":"chem-11",
                         "chapter_name": " খনিজ সম্পদঃ জীবাশ্ম (Mineral Resources: Fossils)",
                         "total_class": 8,
-                        "price": 4400
+                        "price": 6000
                     },
                     {
                         "chapter_id":"chem-12",
                         "chapter_name": " আমাদের জীবনে রসায়ন (Chemistry in Our Lives)",
                         "total_class": 3,
-                        "price": 1650
+                        "price": 2250
                     }
                 ]
             },
-            "test_paper_solve": {
+             "test_paper_solve": {
                 "chapters": [
-                     {
+                    {
                         "chapter_id":"chem-1",
                         "chapter_name": " রসায়নের ধারণা (The Concepts of Chemistry)",
                         "total_class": 1,
@@ -576,68 +600,68 @@
                     {
                         "chapter_id":"chem-2",
                         "chapter_name": " পদার্থের অবস্থা (States of Matter)",
-                        "total_class": 2,
-                        "price": 1100
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"chem-3",
                         "chapter_name": " পদার্থের গঠন (Structure of Matter)",
-                        "total_class": 4,
-                        "price": 2200
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"chem-4",
                         "chapter_name": " পর্যায় সারণি (Periodic Table)",
-                        "total_class": 4,
-                        "price": 2200
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"chem-5",
                         "chapter_name": " রাসায়নিক বন্ধন (Chemical Bond)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"chem-6",
                         "chapter_name": " মোলের ধারণা ও রাসায়নিক গণনা (Concept of Mole and Chemical Counting)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"chem-7",
                         "chapter_name": " রাসায়নিক বিক্রিয়া (Chemical Reaction)",
-                        "total_class": 4,
-                        "price": 2200
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"chem-8",
                         "chapter_name": " রসায়ন ও শক্তি (Chemistry and Energy)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"chem-9",
                         "chapter_name": " এসিড-ক্ষারক সমতা (Balance of Acid-Base)",
-                        "total_class": 4,
-                        "price": 2200
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"chem-10",
                         "chapter_name": " খনিজ সম্পদঃ ধাতু-অধাতু (Mineral Resources: Metals and Non-metals)",
-                        "total_class": 4,
-                        "price": 2200
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"chem-11",
                         "chapter_name": " খনিজ সম্পদঃ জীবাশ্ম (Mineral Resources: Fossils)",
-                        "total_class": 8,
-                        "price": 4400
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"chem-12",
                         "chapter_name": " আমাদের জীবনে রসায়ন (Chemistry in Our Lives)",
-                        "total_class": 3,
-                        "price": 1650
+                        "total_class": 1,
+                        "price": 550
                     }
                 ]
             }
@@ -681,7 +705,7 @@
                     },
                     {
                         "chapter_id":"phy-6",
-                        "chapter_name": " ্বস্তুর ওপর তাপের প্রভাব (Effect of heat on matter)",
+                        "chapter_name": "বস্তুর ওপর তাপের প্রভাব (Effect of heat on matter)",
                         "total_class": 5,
                         "price": 2750
                     },
@@ -741,85 +765,85 @@
                         "chapter_id":"phy-1",
                         "chapter_name": " ভৌত রাশি ও পরিমাপ (Physical quantities and their measurements)",
                         "total_class": 1,
-                        "price": 550
+                        "price": 250
                     },
                     {
                         "chapter_id":"phy-2",
                         "chapter_name": " গতি (Motion)",
                         "total_class": 8,
-                        "price": 4400
+                        "price": 2000
                     },
                     {
                         "chapter_id":"phy-3",
                         "chapter_name": " বল (Force)",
                         "total_class": 6,
-                        "price": 3300
+                        "price": 1500
                     },
                     {
                         "chapter_id":"phy-4",
                         "chapter_name": " কাজ,ক্ষমতা ও শক্তি(Work,power and energy)",
                         "total_class": 5,
-                        "price": 2750
+                        "price": 1250
                     },
                     {
                         "chapter_id":"phy-5",
                         "chapter_name": " পদার্থের অবস্থা ও চাপ(State of matter and pressure)",
                         "total_class": 5,
-                        "price": 2750
+                        "price": 1250
                     },
                     {
                         "chapter_id":"phy-6",
-                        "chapter_name": " ্বস্তুর ওপর তাপের প্রভাব (Effect of heat on matter)",
+                        "chapter_name": " বস্তুর ওপর তাপের প্রভাব (Effect of heat on matter)",
                         "total_class": 5,
-                        "price": 2750
+                        "price": 1250
                     },
                     {
                         "chapter_id":"phy-7",
                         "chapter_name": "তরঙ্গ ও শব্দ (Waves and Sound)",
                         "total_class": 4,
-                        "price": 2200
+                        "price": 1000
                     },
                     {
                         "chapter_id":"phy-8",
                         "chapter_name": " আলোর প্রতিফলন (Reflection of light)",
                         "total_class": 4,
-                        "price": 2200
+                        "price": 1000
                     },
                     {
                         "chapter_id":"phy-9",
                         "chapter_name": " আলোর প্রতিসরণ (Refraction of light)",
                         "total_class": 5,
-                        "price": 2750
+                        "price": 1250
                     },
                     {
                         "chapter_id":"phy-10",
                         "chapter_name": " স্থির তড়িৎ (Static electricity)",
                         "total_class": 5,
-                        "price": 2750
+                        "price": 1250
                     },
                     {
                         "chapter_id":"phy-11",
                         "chapter_name": " চল তড়িৎ (Current electricity)",
                         "total_class": 5,
-                        "price": 2750
+                        "price": 1250
                     },
                     {
                         "chapter_id":"phy-12",
                         "chapter_name": " বিদ্যুতের চৌম্বক ক্রিয়া (Magnetic effects of current)",
                         "total_class": 3,
-                        "price": 1650
+                        "price": 750
                     },
                     {
                         "chapter_id":"phy-13",
                         "chapter_name": " আধুনিক পদার্থবিজ্ঞান ও ইলেকট্রনিক্স  (Modern physics and electronics)",
                         "total_class": 3,
-                        "price": 1650
+                        "price": 750
                     },
                     {
                         "chapter_id":"phy-14",
                         "chapter_name": " জীবন বাঁচাতে পদার্থবিজ্ঞান (Physics to save life)",
                         "total_class": 2,
-                        "price": 1100
+                        "price": 500
                     }
                 ]
             },
@@ -829,85 +853,85 @@
                         "chapter_id":"phy-1",
                         "chapter_name": " ভৌত রাশি ও পরিমাপ (Physical quantities and their measurements)",
                         "total_class": 1,
-                        "price": 550
+                        "price": 750
                     },
                     {
                         "chapter_id":"phy-2",
                         "chapter_name": " গতি (Motion)",
                         "total_class": 8,
-                        "price": 4400
+                        "price": 6000
                     },
                     {
                         "chapter_id":"phy-3",
                         "chapter_name": " বল (Force)",
                         "total_class": 6,
-                        "price": 3300
+                        "price": 4500
                     },
                     {
                         "chapter_id":"phy-4",
                         "chapter_name": " কাজ,ক্ষমতা ও শক্তি(Work,power and energy)",
                         "total_class": 5,
-                        "price": 2750
+                        "price": 3750
                     },
                     {
                         "chapter_id":"phy-5",
                         "chapter_name": " পদার্থের অবস্থা ও চাপ(State of matter and pressure)",
                         "total_class": 5,
-                        "price": 2750
+                        "price": 3750
                     },
                     {
                         "chapter_id":"phy-6",
-                        "chapter_name": " ্বস্তুর ওপর তাপের প্রভাব (Effect of heat on matter)",
+                        "chapter_name": " বস্তুর ওপর তাপের প্রভাব (Effect of heat on matter)",
                         "total_class": 5,
-                        "price": 2750
+                        "price": 3750
                     },
                     {
                         "chapter_id":"phy-7",
                         "chapter_name": "তরঙ্গ ও শব্দ (Waves and Sound)",
                         "total_class": 4,
-                        "price": 2200
+                        "price": 3000
                     },
                     {
                         "chapter_id":"phy-8",
                         "chapter_name": " আলোর প্রতিফলন (Reflection of light)",
                         "total_class": 4,
-                        "price": 2200
+                        "price": 3000
                     },
                     {
                         "chapter_id":"phy-9",
                         "chapter_name": " আলোর প্রতিসরণ (Refraction of light)",
                         "total_class": 5,
-                        "price": 2750
+                        "price": 3750
                     },
                     {
                         "chapter_id":"phy-10",
                         "chapter_name": " স্থির তড়িৎ (Static electricity)",
                         "total_class": 5,
-                        "price": 2750
+                        "price": 3750
                     },
                     {
                         "chapter_id":"phy-11",
                         "chapter_name": " চল তড়িৎ (Current electricity)",
                         "total_class": 5,
-                        "price": 2750
+                        "price": 3750
                     },
                     {
                         "chapter_id":"phy-12",
                         "chapter_name": " বিদ্যুতের চৌম্বক ক্রিয়া (Magnetic effects of current)",
                         "total_class": 3,
-                        "price": 1650
+                        "price": 2250
                     },
                     {
                         "chapter_id":"phy-13",
                         "chapter_name": " আধুনিক পদার্থবিজ্ঞান ও ইলেকট্রনিক্স  (Modern physics and electronics)",
                         "total_class": 3,
-                        "price": 1650
+                        "price": 2250
                     },
                     {
                         "chapter_id":"phy-14",
                         "chapter_name": " জীবন বাঁচাতে পদার্থবিজ্ঞান (Physics to save life)",
                         "total_class": 2,
-                        "price": 1100
+                        "price": 1500
                     }
                 ]
             },
@@ -922,80 +946,80 @@
                     {
                         "chapter_id":"phy-2",
                         "chapter_name": " গতি (Motion)",
-                        "total_class": 8,
-                        "price": 4400
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"phy-3",
                         "chapter_name": " বল (Force)",
-                        "total_class": 6,
-                        "price": 3300
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"phy-4",
                         "chapter_name": " কাজ,ক্ষমতা ও শক্তি(Work,power and energy)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"phy-5",
                         "chapter_name": " পদার্থের অবস্থা ও চাপ(State of matter and pressure)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"phy-6",
                         "chapter_name": " ্বস্তুর ওপর তাপের প্রভাব (Effect of heat on matter)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"phy-7",
                         "chapter_name": "তরঙ্গ ও শব্দ (Waves and Sound)",
-                        "total_class": 4,
-                        "price": 2200
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"phy-8",
                         "chapter_name": " আলোর প্রতিফলন (Reflection of light)",
-                        "total_class": 4,
-                        "price": 2200
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"phy-9",
                         "chapter_name": " আলোর প্রতিসরণ (Refraction of light)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"phy-10",
                         "chapter_name": " স্থির তড়িৎ (Static electricity)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"phy-11",
                         "chapter_name": " চল তড়িৎ (Current electricity)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"phy-12",
                         "chapter_name": " বিদ্যুতের চৌম্বক ক্রিয়া (Magnetic effects of current)",
-                        "total_class": 3,
-                        "price": 1650
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"phy-13",
                         "chapter_name": " আধুনিক পদার্থবিজ্ঞান ও ইলেকট্রনিক্স  (Modern physics and electronics)",
-                        "total_class": 3,
-                        "price": 1650
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"phy-14",
                         "chapter_name": " জীবন বাঁচাতে পদার্থবিজ্ঞান (Physics to save life)",
-                        "total_class": 2,
-                        "price": 1100
+                        "total_class": 1,
+                        "price": 550
                     }
                 ]
             }
@@ -1010,8 +1034,8 @@
                     {
                 "chapter_id":"math-1",
                 "chapter_name": "বাস্তব সংখ্যা (Real Numbers)",
-                "total_class": 4,
-                "price": 2200
+                "total_class": 3,
+                "price": 1650
               },
               {
                 "chapter_id":"math-2",
@@ -1116,104 +1140,104 @@
                     {
                 "chapter_id":"math-1",
                 "chapter_name": "বাস্তব সংখ্যা (Real Numbers)",
-                "total_class": 4,
-                "price": 2200
+                "total_class": 3,
+                "price": 750
               },
               {
                 "chapter_id":"math-2",
                 "chapter_name": "সেট ও ফাংশন (Set and Function)",
                 "total_class": 6,
-                "price": 3300
+                "price": 1500
               },
               {
                 "chapter_id":"math-3",
                 "chapter_name": "বীজগাণিতিক রাশি (Algebraic Expressions)",
                 "total_class": 10,
-                "price": 5500
+                "price": 2500
               },
               {
                 "chapter_id":"math-4",
                 "chapter_name": "সূচক ও লগারিদম (Exponents and Logarithms)",
                 "total_class": 6,
-                "price": 3300
+                "price": 1500
               },
               {
                 "chapter_id":"math-5",
                 "chapter_name": "এক চলকবিশিষ্ট সমীকরণ (Equations in One Variable)",
                 "total_class": 5,
-                "price": 2750
+                "price": 1250
               },
               {
                 "chapter_id":"math-6",
                 "chapter_name": "রেখা, কোণ ও ত্রিভুজ (Lines, Angles and Triangles)",
                 "total_class": 6,
-                "price": 3300
+                "price": 1500
               },
               {
                 "chapter_id":"math-7",
                 "chapter_name": "ব্যবহারিক জ্যামিতি (Practical Geometry)",
                 "total_class": 5,
-                "price": 2750
+                "price": 1250
               },
               {
                 "chapter_id":"math-8",
                 "chapter_name": "বৃত্ত (Circle)",
                 "total_class": 8,
-                "price": 4400
+                "price": 2000
               },
               {
                 "chapter_id":"math-9",
                 "chapter_name": "ত্রিকোণমিতিক অনুপাত (Balance of Acid-Base)",
                 "total_class": 6,
-                "price": 3300
+                "price": 1500
               },
               {
                 "chapter_id":"math-10",
                 "chapter_name": "দূরত্ব ও উচ্চতা (Distance and Elevation)",
                 "total_class": 3,
-                "price": 1850
+                "price": 750
               },
               {
                 "chapter_id":"math-11",
                 "chapter_name": "বীজগাণিতিক অনুপাত ও সমানুপাত (Algebraic Ratio and Proportion)",
                 "total_class": 5,
-                "price": 2750
+                "price": 1250
               },
               {
                 "chapter_id":"math-12",
                 "chapter_name": "দুই চলকবিশিষ্ট সরল সহসমীকরণ (Simple Simultaneous Equations in Two Variables)",
                 "total_class": 7,
-                "price": 3850
+                "price": 1750
               },
               {
                 "chapter_id":"math-13",
                 "chapter_name": "সসীম ধারা (Finite Series)",
                 "total_class": 5,
-                "price": 2750
+                "price": 1250
               },
               {
                 "chapter_id":"math-14",
                 "chapter_name": "অনুপাত, সদৃশতা ও প্রতিসমতা (Ratio, Similarity and Symmetry)",
                 "total_class": 6,
-                "price": 3300
+                "price": 1500
               },
               {
                 "chapter_id":"math-15",
                 "chapter_name": "ক্ষেত্রফল সম্পর্কিত উপপাদ্য ও সম্পাদ্য (Area Related Theorems and Constructions)",
                 "total_class": 3,
-                "price": 1650
+                "price": 750
               },
               {
                 "chapter_id":"math-16",
                 "chapter_name": "পরিমিতি (Measurement)",
                 "total_class": 8,
-                "price": 4400
+                "price": 2000
               },
               {
                 "chapter_id":"math-17",
                 "chapter_name": "অনুপাত, সদৃশতা ও প্রতিসমতা (Ratio, Similarity and Symmetry)",
                 "total_class": 6,
-                "price": 3300
+                "price": 1500
               }
                 ]
             },
@@ -1222,104 +1246,104 @@
                     {
                 "chapter_id":"math-1",
                 "chapter_name": "বাস্তব সংখ্যা (Real Numbers)",
-                "total_class": 4,
-                "price": 2200
+                "total_class": 3,
+                "price": 2250
               },
               {
                 "chapter_id":"math-2",
                 "chapter_name": "সেট ও ফাংশন (Set and Function)",
                 "total_class": 6,
-                "price": 3300
+                "price": 4500
               },
               {
                 "chapter_id":"math-3",
                 "chapter_name": "বীজগাণিতিক রাশি (Algebraic Expressions)",
                 "total_class": 10,
-                "price": 5500
+                "price": 7500
               },
               {
                 "chapter_id":"math-4",
                 "chapter_name": "সূচক ও লগারিদম (Exponents and Logarithms)",
                 "total_class": 6,
-                "price": 3300
+                "price": 4500
               },
               {
                 "chapter_id":"math-5",
                 "chapter_name": "এক চলকবিশিষ্ট সমীকরণ (Equations in One Variable)",
                 "total_class": 5,
-                "price": 2750
+                "price": 3750
               },
               {
                 "chapter_id":"math-6",
                 "chapter_name": "রেখা, কোণ ও ত্রিভুজ (Lines, Angles and Triangles)",
                 "total_class": 6,
-                "price": 3300
+                "price": 4500
               },
               {
                 "chapter_id":"math-7",
                 "chapter_name": "ব্যবহারিক জ্যামিতি (Practical Geometry)",
                 "total_class": 5,
-                "price": 2750
+                "price": 3750
               },
               {
                 "chapter_id":"math-8",
                 "chapter_name": "বৃত্ত (Circle)",
                 "total_class": 8,
-                "price": 4400
+                "price": 6000
               },
               {
                 "chapter_id":"math-9",
                 "chapter_name": "ত্রিকোণমিতিক অনুপাত (Balance of Acid-Base)",
                 "total_class": 6,
-                "price": 3300
+                "price": 4500
               },
               {
                 "chapter_id":"math-10",
                 "chapter_name": "দূরত্ব ও উচ্চতা (Distance and Elevation)",
                 "total_class": 3,
-                "price": 1850
+                "price": 2250
               },
               {
                 "chapter_id":"math-11",
                 "chapter_name": "বীজগাণিতিক অনুপাত ও সমানুপাত (Algebraic Ratio and Proportion)",
                 "total_class": 5,
-                "price": 2750
+                "price": 3750
               },
               {
                 "chapter_id":"math-12",
                 "chapter_name": "দুই চলকবিশিষ্ট সরল সহসমীকরণ (Simple Simultaneous Equations in Two Variables)",
                 "total_class": 7,
-                "price": 3850
+                "price": 5250
               },
               {
                 "chapter_id":"math-13",
                 "chapter_name": "সসীম ধারা (Finite Series)",
                 "total_class": 5,
-                "price": 2750
+                "price": 3750
               },
               {
                 "chapter_id":"math-14",
                 "chapter_name": "অনুপাত, সদৃশতা ও প্রতিসমতা (Ratio, Similarity and Symmetry)",
                 "total_class": 6,
-                "price": 3300
+                "price": 4500
               },
               {
                 "chapter_id":"math-15",
                 "chapter_name": "ক্ষেত্রফল সম্পর্কিত উপপাদ্য ও সম্পাদ্য (Area Related Theorems and Constructions)",
                 "total_class": 3,
-                "price": 1650
+                "price": 2250
               },
               {
                 "chapter_id":"math-16",
                 "chapter_name": "পরিমিতি (Measurement)",
                 "total_class": 8,
-                "price": 4400
+                "price": 6000
               },
               {
                 "chapter_id":"math-17",
                 "chapter_name": "অনুপাত, সদৃশতা ও প্রতিসমতা (Ratio, Similarity and Symmetry)",
                 "total_class": 6,
-                "price": 3300
+                "price": 4500
               }
                 ]
             },
@@ -1328,104 +1352,104 @@
                     {
                 "chapter_id":"math-1",
                 "chapter_name": "বাস্তব সংখ্যা (Real Numbers)",
-                "total_class": 4,
-                "price": 2200
+                "total_class": 1,
+                "price": 550
               },
               {
                 "chapter_id":"math-2",
                 "chapter_name": "সেট ও ফাংশন (Set and Function)",
-                "total_class": 6,
-                "price": 3300
+                "total_class": 1,
+                "price": 550
               },
               {
                 "chapter_id":"math-3",
                 "chapter_name": "বীজগাণিতিক রাশি (Algebraic Expressions)",
-                "total_class": 10,
-                "price": 5500
+                "total_class": 1,
+                "price": 550
               },
               {
                 "chapter_id":"math-4",
                 "chapter_name": "সূচক ও লগারিদম (Exponents and Logarithms)",
-                "total_class": 6,
-                "price": 3300
+                "total_class": 1,
+                "price": 550
               },
               {
                 "chapter_id":"math-5",
                 "chapter_name": "এক চলকবিশিষ্ট সমীকরণ (Equations in One Variable)",
-                "total_class": 5,
-                "price": 2750
+                "total_class": 1,
+                "price": 550
               },
               {
                 "chapter_id":"math-6",
                 "chapter_name": "রেখা, কোণ ও ত্রিভুজ (Lines, Angles and Triangles)",
-                "total_class": 6,
-                "price": 3300
+                "total_class": 1,
+                "price": 550
               },
               {
                 "chapter_id":"math-7",
                 "chapter_name": "ব্যবহারিক জ্যামিতি (Practical Geometry)",
-                "total_class": 5,
-                "price": 2750
+                "total_class": 1,
+                "price": 550
               },
               {
                 "chapter_id":"math-8",
                 "chapter_name": "বৃত্ত (Circle)",
-                "total_class": 8,
-                "price": 4400
+                "total_class": 1,
+                "price": 550
               },
               {
                 "chapter_id":"math-9",
                 "chapter_name": "ত্রিকোণমিতিক অনুপাত (Balance of Acid-Base)",
-                "total_class": 6,
-                "price": 3300
+                "total_class": 1,
+                "price": 550
               },
               {
                 "chapter_id":"math-10",
                 "chapter_name": "দূরত্ব ও উচ্চতা (Distance and Elevation)",
-                "total_class": 3,
-                "price": 1850
+                "total_class": 1,
+                "price": 550
               },
               {
                 "chapter_id":"math-11",
                 "chapter_name": "বীজগাণিতিক অনুপাত ও সমানুপাত (Algebraic Ratio and Proportion)",
-                "total_class": 5,
-                "price": 2750
+                "total_class": 1,
+                "price": 550
               },
               {
                 "chapter_id":"math-12",
                 "chapter_name": "দুই চলকবিশিষ্ট সরল সহসমীকরণ (Simple Simultaneous Equations in Two Variables)",
-                "total_class": 7,
-                "price": 3850
+                "total_class": 1,
+                "price": 550
               },
               {
                 "chapter_id":"math-13",
                 "chapter_name": "সসীম ধারা (Finite Series)",
-                "total_class": 5,
-                "price": 2750
+                "total_class": 1,
+                "price": 550
               },
               {
                 "chapter_id":"math-14",
                 "chapter_name": "অনুপাত, সদৃশতা ও প্রতিসমতা (Ratio, Similarity and Symmetry)",
-                "total_class": 6,
-                "price": 3300
+                "total_class": 1,
+                "price": 550
               },
               {
                 "chapter_id":"math-15",
                 "chapter_name": "ক্ষেত্রফল সম্পর্কিত উপপাদ্য ও সম্পাদ্য (Area Related Theorems and Constructions)",
-                "total_class": 3,
-                "price": 1650
+                "total_class": 1,
+                "price": 550
               },
               {
                 "chapter_id":"math-16",
                 "chapter_name": "পরিমিতি (Measurement)",
-                "total_class": 8,
-                "price": 4400
+                "total_class": 1,
+                "price": 550
               },
               {
                 "chapter_id":"math-17",
                 "chapter_name": "অনুপাত, সদৃশতা ও প্রতিসমতা (Ratio, Similarity and Symmetry)",
-                "total_class": 6,
-                "price": 3300
+                "total_class": 1,
+                "price": 550
               }
                 ]
             }
@@ -1446,74 +1470,80 @@
                     {
                         "chapter_id":"bio-2",
                         "chapter_name": " জীব কোষ ও টিস্যু (Cell and Tissue)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 3,
+                        "price": 1650
                     },
                     {
                         "chapter_id":"bio-3",
                         "chapter_name": " কোষ বিভাজন (Cell Division)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 2,
+                        "price": 1100
                     },
                     {
                         "chapter_id":"bio-4",
                         "chapter_name": " জীবনীশক্তি(Bioenergetics)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 3,
+                        "price": 1650
                     },
                     {
                         "chapter_id":"bio-5",
                         "chapter_name": " খাদ্য , পুষ্টি ও পরিপাক (Food, Nutrition and Digestion)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 3,
+                        "price": 1650
                     },
                     {
                         "chapter_id":"bio-6",
                         "chapter_name": " জীবে পরিবহন (Transport in Living Organism)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 3,
+                        "price": 1650
                     },
                     {
                         "chapter_id":"bio-7",
                         "chapter_name": " গ্যাসীয় বিনিময় (Gaseous Exchange)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 2,
+                        "price": 1100
                     },
                     {
                         "chapter_id":"bio-8",
                         "chapter_name": "রেচন প্রক্রিয়া  ",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 2,
+                        "price": 1100
                     },
                     {
                         "chapter_id":"bio-9",
                         "chapter_name": " দৃঢ়তা প্রদান ও চলন (Support and Movement)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 2,
+                        "price": 1100
                     },
                     {
                         "chapter_id":"bio-10",
                         "chapter_name": " সমন্বয় (Life Process)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 2,
+                        "price": 1100
                     },
                     {
                         "chapter_id":"bio-11",
-                        "chapter_name": " জীবের বংশগতি ও বিবর্তন (Heredity and Evolution)",
-                        "total_class": 5,
-                        "price": 2750
+                        "chapter_name": " জীবের প্রজনন  (Reproduction in Organism)",
+                        "total_class": 3,
+                        "price": 1650
                     },
                     {
                         "chapter_id":"bio-12",
-                        "chapter_name": " জীবের পরিবেশ (Environment)",
-                        "total_class": 5,
-                        "price": 2750
+                        "chapter_name": " জীবের বংশগতি ও বিবর্তন (Heredity and Evolution)",
+                        "total_class": 3,
+                        "price": 1650
                     },
                     {
                         "chapter_id":"bio-13",
+                        "chapter_name": " জীবের পরিবেশ (Environment)",
+                        "total_class": 1,
+                        "price": 550
+                    },
+                    {
+                        "chapter_id":"bio-14",
                         "chapter_name": " জীব প্রযুক্তি (Biotechnology)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 1,
+                        "price": 550
                     }
                 ]
             },
@@ -1523,79 +1553,85 @@
                         "chapter_id":"bio-1",
                         "chapter_name": "জীবন পাঠ (Life Lesson)",
                         "total_class": 1,
-                        "price": 550
+                        "price": 250
                     },
                     {
                         "chapter_id":"bio-2",
                         "chapter_name": " জীব কোষ ও টিস্যু (Cell and Tissue)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 3,
+                        "price": 750
                     },
                     {
                         "chapter_id":"bio-3",
                         "chapter_name": " কোষ বিভাজন (Cell Division)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 2,
+                        "price": 500
                     },
                     {
                         "chapter_id":"bio-4",
                         "chapter_name": " জীবনীশক্তি(Bioenergetics)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 3,
+                        "price": 750
                     },
                     {
                         "chapter_id":"bio-5",
                         "chapter_name": " খাদ্য , পুষ্টি ও পরিপাক (Food, Nutrition and Digestion)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 3,
+                        "price": 750
                     },
                     {
                         "chapter_id":"bio-6",
                         "chapter_name": " জীবে পরিবহন (Transport in Living Organism)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 3,
+                        "price": 750
                     },
                     {
                         "chapter_id":"bio-7",
                         "chapter_name": " গ্যাসীয় বিনিময় (Gaseous Exchange)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 2,
+                        "price": 500
                     },
                     {
                         "chapter_id":"bio-8",
                         "chapter_name": "রেচন প্রক্রিয়া  ",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 2,
+                        "price": 500
                     },
                     {
                         "chapter_id":"bio-9",
                         "chapter_name": " দৃঢ়তা প্রদান ও চলন (Support and Movement)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 2,
+                        "price": 500
                     },
                     {
                         "chapter_id":"bio-10",
                         "chapter_name": " সমন্বয় (Life Process)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 2,
+                        "price": 500
                     },
                     {
                         "chapter_id":"bio-11",
-                        "chapter_name": " জীবের বংশগতি ও বিবর্তন (Heredity and Evolution)",
-                        "total_class": 5,
-                        "price": 2750
+                        "chapter_name": " জীবের প্রজনন  (Reproduction in Organism)",
+                        "total_class": 3,
+                        "price": 750
                     },
                     {
                         "chapter_id":"bio-12",
-                        "chapter_name": " জীবের পরিবেশ (Environment)",
-                        "total_class": 5,
-                        "price": 2750
+                        "chapter_name": " জীবের বংশগতি ও বিবর্তন (Heredity and Evolution)",
+                        "total_class": 3,
+                        "price": 750
                     },
                     {
                         "chapter_id":"bio-13",
+                        "chapter_name": " জীবের পরিবেশ (Environment)",
+                        "total_class": 1,
+                        "price": 250
+                    },
+                    {
+                        "chapter_id":"bio-14",
                         "chapter_name": " জীব প্রযুক্তি (Biotechnology)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 1,
+                        "price": 250
                     }
                 ]
             },
@@ -1605,79 +1641,85 @@
                         "chapter_id":"bio-1",
                         "chapter_name": "জীবন পাঠ (Life Lesson)",
                         "total_class": 1,
-                        "price": 550
+                        "price": 750
                     },
                     {
                         "chapter_id":"bio-2",
                         "chapter_name": " জীব কোষ ও টিস্যু (Cell and Tissue)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 3,
+                        "price": 2250
                     },
                     {
                         "chapter_id":"bio-3",
                         "chapter_name": " কোষ বিভাজন (Cell Division)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 2,
+                        "price": 1500
                     },
                     {
                         "chapter_id":"bio-4",
                         "chapter_name": " জীবনীশক্তি(Bioenergetics)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 3,
+                        "price": 2250
                     },
                     {
                         "chapter_id":"bio-5",
                         "chapter_name": " খাদ্য , পুষ্টি ও পরিপাক (Food, Nutrition and Digestion)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 3,
+                        "price": 2250
                     },
                     {
                         "chapter_id":"bio-6",
                         "chapter_name": " জীবে পরিবহন (Transport in Living Organism)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 3,
+                        "price": 2250
                     },
                     {
                         "chapter_id":"bio-7",
                         "chapter_name": " গ্যাসীয় বিনিময় (Gaseous Exchange)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 2,
+                        "price": 1500
                     },
                     {
                         "chapter_id":"bio-8",
                         "chapter_name": "রেচন প্রক্রিয়া  ",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 2,
+                        "price":1500
                     },
                     {
                         "chapter_id":"bio-9",
                         "chapter_name": " দৃঢ়তা প্রদান ও চলন (Support and Movement)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 2,
+                        "price": 1500
                     },
                     {
                         "chapter_id":"bio-10",
                         "chapter_name": " সমন্বয় (Life Process)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 2,
+                        "price": 1500
                     },
                     {
                         "chapter_id":"bio-11",
-                        "chapter_name": " জীবের বংশগতি ও বিবর্তন (Heredity and Evolution)",
-                        "total_class": 5,
-                        "price": 2750
+                        "chapter_name": " জীবের প্রজনন  (Reproduction in Organism)",
+                        "total_class": 3,
+                        "price": 2250
                     },
                     {
                         "chapter_id":"bio-12",
-                        "chapter_name": " জীবের পরিবেশ (Environment)",
-                        "total_class": 5,
-                        "price": 2750
+                        "chapter_name": " জীবের বংশগতি ও বিবর্তন (Heredity and Evolution)",
+                        "total_class": 3,
+                        "price": 2250
                     },
                     {
                         "chapter_id":"bio-13",
+                        "chapter_name": " জীবের পরিবেশ (Environment)",
+                        "total_class": 1,
+                        "price": 750
+                    },
+                    {
+                        "chapter_id":"bio-14",
                         "chapter_name": " জীব প্রযুক্তি (Biotechnology)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 1,
+                        "price": 750
                     }
                 ]
             },
@@ -1692,74 +1734,80 @@
                     {
                         "chapter_id":"bio-2",
                         "chapter_name": " জীব কোষ ও টিস্যু (Cell and Tissue)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"bio-3",
                         "chapter_name": " কোষ বিভাজন (Cell Division)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"bio-4",
                         "chapter_name": " জীবনীশক্তি(Bioenergetics)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"bio-5",
                         "chapter_name": " খাদ্য , পুষ্টি ও পরিপাক (Food, Nutrition and Digestion)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"bio-6",
                         "chapter_name": " জীবে পরিবহন (Transport in Living Organism)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"bio-7",
                         "chapter_name": " গ্যাসীয় বিনিময় (Gaseous Exchange)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"bio-8",
                         "chapter_name": "রেচন প্রক্রিয়া  ",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"bio-9",
                         "chapter_name": " দৃঢ়তা প্রদান ও চলন (Support and Movement)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"bio-10",
                         "chapter_name": " সমন্বয় (Life Process)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"bio-11",
-                        "chapter_name": " জীবের বংশগতি ও বিবর্তন (Heredity and Evolution)",
-                        "total_class": 5,
-                        "price": 2750
+                        "chapter_name": " জীবের প্রজনন  (Reproduction in Organism)",
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"bio-12",
-                        "chapter_name": " জীবের পরিবেশ (Environment)",
-                        "total_class": 5,
-                        "price": 2750
+                        "chapter_name": " জীবের বংশগতি ও বিবর্তন (Heredity and Evolution)",
+                        "total_class": 1,
+                        "price": 550
                     },
                     {
                         "chapter_id":"bio-13",
+                        "chapter_name": " জীবের পরিবেশ (Environment)",
+                        "total_class": 1,
+                        "price": 550
+                    },
+                    {
+                        "chapter_id":"bio-14",
                         "chapter_name": " জীব প্রযুক্তি (Biotechnology)",
-                        "total_class": 5,
-                        "price": 2750
+                        "total_class": 1,
+                        "price": 550
                     }
                 ]
             }
